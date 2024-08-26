@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Academic Teaching and Educational Administration.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Education and Training&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Education%20and%20Training&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=Education and Training&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=Education%20and%20Training&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign=Education and Training&utm_source=1103">
+    <a href="https://jobright.ai/?utm_campaign=Education%20and%20Training&utm_source=1103">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -44,7 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, click the following sortable link below:
 </h4>
-<a href="https://newgrad-jobs.com/?selectedKey=🎓%20Education%20and%20Training&utm_source=1103&utm_campaign=Education and Training">
+<a href="https://newgrad-jobs.com/?selectedKey=🎓%20Education%20and%20Training&utm_source=1103&utm_campaign=Education%20and%20Training">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -183,6 +183,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b4b2b0b05156bd850881cc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Knoxville, TN | On Site | Aug 23 |
 | ↳ | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b4fd6e25d9ed2e540c6b69?utm_campaign=Education%20and%20Training&utm_source=1103)** | West Des Moines, IA | On Site | Aug 23 |
 | **[University of Illinois, Springfield](http://www.uis.edu/)** | **[Visiting Assistant Men's and Women's Tennis Coach](https://jobright-internal.com/jobs/info/6690b5531acf37e6b24801ad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Springfield, IL | On Site | Aug 23 |
+| **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66af6de8b37c3dae4ece23f5?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Aug 23 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b50600dfa876c9a797fa3f?utm_campaign=Education%20and%20Training&utm_source=1103)** | New Orleans, LA | On Site | Aug 23 |
 | **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abaf39142d89f5455a6b20?utm_campaign=Education%20and%20Training&utm_source=1103)** | Arkansas, United States | On Site | Aug 23 |
 | ↳ | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abd3ca27554b214c0fcf47?utm_campaign=Education%20and%20Training&utm_source=1103)** | Syracuse-Auburn Area | On Site | Aug 23 |
@@ -195,13 +196,12 @@ For a complete list, click the following sortable link below:
 | **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66ad026d5384f39425d6c30f?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fairbanks, AR | On Site | Aug 23 |
 | ↳ | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abaf39142d89f5455a6b23?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hempstead, NY | On Site | Aug 23 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b4ea0e1464abd2104181c0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pasadena, TX | On Site | Aug 23 |
-| **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abaf30142d89f5455a69cd?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Aug 23 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b508503544fb213cb87eaa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Sunnyvale, CA | On Site | Aug 23 |
+| ↳ | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b508503544fb213cb87eaa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Sunnyvale, CA | On Site | Aug 23 |
 | **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abc60bdf6cc57ead19bd5e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Huntsville, AL | On Site | Aug 23 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b4ea0e1464abd2104181c4?utm_campaign=Education%20and%20Training&utm_source=1103)** | League City, TX | On Site | Aug 23 |
-| **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66acd781ada8ad3004a70ae8?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hartsdale, NY | On Site | Aug 23 |
 | **[Greystar](http://greystar.com)** | **[Housing Operations Coordinator](https://jobright-internal.com/jobs/info/66ac95a1e169af64f8de209e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cleveland, OH | On Site | Aug 23 |
-| **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abc620df6cc57ead19bed9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Albany, New York Metropolitan Area | On Site | Aug 23 |
+| **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abaf39142d89f5455a6b22?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hartsdale, NY | On Site | Aug 23 |
+| ↳ | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66abc620df6cc57ead19bed9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Albany, New York Metropolitan Area | On Site | Aug 23 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b51459acf4fc0f6791fdcf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lafayette, IN | On Site | Aug 23 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Kids For All Seasons Attendant](https://jobright-internal.com/jobs/info/66ac20a4ed5fab398c720ebc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kailua-Kona, HI | On Site | Aug 23 |
 | **[University of Tennessee Health Science Center College of Medicine](https://uthsc.edu/medicine/)** | **[Administrative Coordinator I-Enrollment Management](https://jobright-internal.com/jobs/info/66c87cc356640dd7c5f858ae?utm_campaign=Education%20and%20Training&utm_source=1103)** | Memphis, TN | On Site | Aug 23 |
@@ -464,7 +464,8 @@ For a complete list, click the following sortable link below:
 | **[Meeting Street Schools](https://meetingstreetschools.org/)** | **[Reclutador de inscripción de estudiantes](https://jobright-internal.com/jobs/info/66c53b3a33e3d96dc776208d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Jasper, SC | Hybrid | Aug 20 |
 | **[University of Tennessee Health Science Center College of Medicine](https://uthsc.edu/medicine/)** | **[Research Study Coordinator](https://jobright-internal.com/jobs/info/66c51878d76449da38c4451e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Knoxville, TN | On Site | Aug 20 |
 | **[Northeastern University Innovation Council](https://www.northeastern.edu/cri/)** | **[Student Leadership Coordinator](https://jobright-internal.com/jobs/info/66a00ac8c9e198ff4fdf7ddb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Aug 20 |
-| ↳ | **[Community Assistant](https://jobright-internal.com/jobs/info/66c504f2777552a32b6339bb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Aug 20 |
+| **[University of Utah](http://utah.edu)** | **[PS Study Coordinator](https://jobright-internal.com/jobs/info/66c5246e93950544f36d91ee?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 20 |
+| **[Northeastern University Innovation Council](https://www.northeastern.edu/cri/)** | **[Community Assistant](https://jobright-internal.com/jobs/info/66c504f2777552a32b6339bb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Aug 20 |
 | **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b20167203dfbfe4059e763?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bellingham, WA | On Site | Aug 20 |
 | **[University of California, Los Angeles](http://www.ucla.edu)** | **[Program Coordinator, First to Go](https://jobright-internal.com/jobs/info/66c567510062f373c0cbc333?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 20 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[Insurance & Financial Services Professional - Spanish Speaking](https://jobright-internal.com/jobs/info/66c5288e9f4da919a6e2d78b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
@@ -482,7 +483,7 @@ For a complete list, click the following sortable link below:
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Research Assistant for Musculoskeletal Research Project](https://jobright-internal.com/jobs/info/66c4adff678c776608f43e3d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Richmond, VA | On Site | Aug 20 |
 | **[Vinfen](http://www.vinfen.org)** | **[Day Program Activities Assistant](https://jobright-internal.com/jobs/info/66bd440f2db88e41262de920?utm_campaign=Education%20and%20Training&utm_source=1103)** | Weymouth, MA | On Site | Aug 20 |
 | **[Virginia Beach City Public Schools](https://www.vbschools.com)** | **[General Assistant](https://jobright-internal.com/jobs/info/66c738946e53981cd5195dd5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Virginia Beach, VA | On Site | Aug 20 |
-| **[Vinfen](http://www.vinfen.org)** | **[Day Program Activities Assistant](https://jobright-internal.com/jobs/info/66c4a3df6a768cda49a5c93d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Boston, MA | On Site | Aug 20 |
+| **[Vinfen](http://www.vinfen.org)** | **[Day Program Activities Assistant](https://jobright-internal.com/jobs/info/66c4a3d96a768cda49a5c248?utm_campaign=Education%20and%20Training&utm_source=1103)** | Boston, MA | On Site | Aug 20 |
 | **[Humana](http://www.humana.com)** | **[Learning Facilitation Professional](https://jobright-internal.com/jobs/info/66c489eabb5386bc5fda734e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hialeah, FL | Hybrid | Aug 20 |
 | ↳ | **[Learning Facilitation Professional](https://jobright-internal.com/jobs/info/66c489eabb5386bc5fda7349?utm_campaign=Education%20and%20Training&utm_source=1103)** | Land O' Lakes, FL | Hybrid | Aug 20 |
 | **[Vinfen](http://www.vinfen.org)** | **[Young Adult Transition Facilitator (TIP)](https://jobright-internal.com/jobs/info/66c4928c1319a8853e1d5d1c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Everett, MA | On Site | Aug 20 |
@@ -496,7 +497,6 @@ For a complete list, click the following sortable link below:
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Speech Pathologist II](https://jobright-internal.com/jobs/info/6689828fda6ac1ff245285dc?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Francisco, CA | On Site | Aug 20 |
 | **[Merakey](https://www.merakey.org/)** | **[Behavior Analyst](https://jobright-internal.com/jobs/info/66aa8e1027831861dc813a0a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New Castle, DE | On Site | Aug 20 |
 | **[Leidos holdings](https://www.leidos.com/)** | **[Military Family Life Counselor](https://jobright-internal.com/jobs/info/66a8107743c575ae49a57bbf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pearl City, HI | On Site | Aug 20 |
-| **[University of Utah](http://utah.edu)** | **[PS Study Coordinator](https://jobright-internal.com/jobs/info/66c476af333497bf65f4508b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 20 |
 | **[Autism Learning Partners](https://autismlearningpartners.com/)** | **[Behavior Analyst (BCBA) - Hybrid](https://jobright-internal.com/jobs/info/66c457889d49559f7871390e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lancaster, CA | Hybrid | Aug 20 |
 | **[The Village of St. Edward](https://www.vased.org)** | **[Activities Assistant](https://jobright-internal.com/jobs/info/66c6dadbe5541ac03efa2b08?utm_campaign=Education%20and%20Training&utm_source=1103)** | Green, OH | On Site | Aug 19 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Study Coordinator 1](https://jobright-internal.com/jobs/info/66c44153ebfe175a48b3ab59?utm_campaign=Education%20and%20Training&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
