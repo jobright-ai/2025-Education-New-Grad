@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Education%20and%20Training by Jobright.ai
+# Daily Intern Jobs in Education and Training by Jobright.ai
 
 
 
@@ -464,8 +464,7 @@ For a complete list, click the following sortable link below:
 | **[Meeting Street Schools](https://meetingstreetschools.org/)** | **[Reclutador de inscripción de estudiantes](https://jobright-internal.com/jobs/info/66c53b3a33e3d96dc776208d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Jasper, SC | Hybrid | Aug 20 |
 | **[University of Tennessee Health Science Center College of Medicine](https://uthsc.edu/medicine/)** | **[Research Study Coordinator](https://jobright-internal.com/jobs/info/66c51878d76449da38c4451e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Knoxville, TN | On Site | Aug 20 |
 | **[Northeastern University Innovation Council](https://www.northeastern.edu/cri/)** | **[Student Leadership Coordinator](https://jobright-internal.com/jobs/info/66a00ac8c9e198ff4fdf7ddb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Aug 20 |
-| **[University of Utah](http://utah.edu)** | **[PS Study Coordinator](https://jobright-internal.com/jobs/info/66c5246e93950544f36d91ee?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 20 |
-| **[Northeastern University Innovation Council](https://www.northeastern.edu/cri/)** | **[Community Assistant](https://jobright-internal.com/jobs/info/66c504f2777552a32b6339bb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Aug 20 |
+| ↳ | **[Community Assistant](https://jobright-internal.com/jobs/info/66c504f2777552a32b6339bb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Aug 20 |
 | **[The IMA Group](https://www.theimagroup.com/)** | **[Licensed Psychologist](https://jobright-internal.com/jobs/info/66b20167203dfbfe4059e763?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bellingham, WA | On Site | Aug 20 |
 | **[University of California, Los Angeles](http://www.ucla.edu)** | **[Program Coordinator, First to Go](https://jobright-internal.com/jobs/info/66c567510062f373c0cbc333?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 20 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[Insurance & Financial Services Professional - Spanish Speaking](https://jobright-internal.com/jobs/info/66c5288e9f4da919a6e2d78b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
@@ -497,6 +496,7 @@ For a complete list, click the following sortable link below:
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Speech Pathologist II](https://jobright-internal.com/jobs/info/6689828fda6ac1ff245285dc?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Francisco, CA | On Site | Aug 20 |
 | **[Merakey](https://www.merakey.org/)** | **[Behavior Analyst](https://jobright-internal.com/jobs/info/66aa8e1027831861dc813a0a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New Castle, DE | On Site | Aug 20 |
 | **[Leidos holdings](https://www.leidos.com/)** | **[Military Family Life Counselor](https://jobright-internal.com/jobs/info/66a8107743c575ae49a57bbf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pearl City, HI | On Site | Aug 20 |
+| **[University of Utah](http://utah.edu)** | **[PS Study Coordinator](https://jobright-internal.com/jobs/info/66c476af333497bf65f4508b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 20 |
 | **[Autism Learning Partners](https://autismlearningpartners.com/)** | **[Behavior Analyst (BCBA) - Hybrid](https://jobright-internal.com/jobs/info/66c457889d49559f7871390e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lancaster, CA | Hybrid | Aug 20 |
 | **[The Village of St. Edward](https://www.vased.org)** | **[Activities Assistant](https://jobright-internal.com/jobs/info/66c6dadbe5541ac03efa2b08?utm_campaign=Education%20and%20Training&utm_source=1103)** | Green, OH | On Site | Aug 19 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Study Coordinator 1](https://jobright-internal.com/jobs/info/66c44153ebfe175a48b3ab59?utm_campaign=Education%20and%20Training&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
