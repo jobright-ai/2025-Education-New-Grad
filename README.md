@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Coordinator, On-Site, Hatboro, Pennsylvania](https://jobright.ai/jobs/info/68d0288bdbd9fb154ededd43?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hatboro, PA | On Site | Oct 04 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Clinical Educator](https://jobright.ai/jobs/info/68db63eb9f13662d20e4abcf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Daytona Beach, FL | On Site | Oct 04 |
 | **[NYS Office for People With Developmental Disabilities](https://opwdd.ny.gov)** | **[Developmental Disabilities Secure Care Treatment Aide 1/Trainee (DDSCTA)](https://jobright.ai/jobs/info/6870417701cc0956e7e80a51?utm_campaign=Education%20and%20Training&utm_source=1103)** | Norwich, NY | On Site | Oct 04 |
 | ↳ | **[Associate Psychologist](https://jobright.ai/jobs/info/687040c306ad7073463bc7fa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kings County, NY | On Site | Oct 04 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABA Student Analyst, Field Work, Graduate Program](https://jobright.ai/jobs/info/68be655ee57feb02eb0ae3db?utm_campaign=Education%20and%20Training&utm_source=1103)** | Edinburg, TX | On Site | Sep 30 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be666c3d31ec76b7e8a235?utm_campaign=Education%20and%20Training&utm_source=1103)** | Belton, TX | On Site | Sep 30 |
 | **[Tutor Time Childcare](https://www.tutortime.com)** | **[Assistant Director](https://jobright.ai/jobs/info/68bf40025c5d5f14f46d5520?utm_campaign=Education%20and%20Training&utm_source=1103)** | Santa Clarita, CA | On Site | Sep 30 |
+| **[University of Massachusetts Amherst](http://www.umass.edu)** | **[Assistant Professor (TT) Mechanical and Industrial Engineering - Additive Manufacturing.](https://jobright.ai/jobs/info/68d5e66f63d77d6f6f3f310a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Amherst, MA | On Site | Sep 30 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be64a2e57feb02eb0ae39a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Apex, NC | On Site | Sep 30 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be64a7c4c5904ff60061ec?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lakewood, CO | On Site | Sep 30 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be642ec4c5904ff60061cc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pearland, TX | On Site | Sep 30 |
@@ -446,10 +448,4 @@ For a complete list, click the following sortable link below:
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Assistant Professor for Scholar Support and Data Services](https://jobright.ai/jobs/info/689a7e1d83d13d1f5b6994ed?utm_campaign=Education%20and%20Training&utm_source=1103)** | University, MS | On Site | Sep 28 |
 | **[Arcadia Family of Companies](http://arcadia.org)** | **[Activities Aide](https://jobright.ai/jobs/info/68d99ef4022fc803b4877883?utm_campaign=Education%20and%20Training&utm_source=1103)** | Honolulu, HI | On Site | Sep 28 |
 | **[St. John's University](https://www.stjohns.edu/law)** | **[Assistant Director of Campus Activities (Nights & Weekends)](https://jobright.ai/jobs/info/68d99ed3022fc803b4877851?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Sep 28 |
-| **[Morris Brown College](http://www.morrisbrown.edu/)** | **[Student Success Coach](https://jobright.ai/jobs/info/68d9954c9a8e451a446a4fba?utm_campaign=Education%20and%20Training&utm_source=1103)** | Atlanta, GA | On Site | Sep 28 |
-| **[Learning Care Group](http://www.learningcaregroup.com/)** | **[Center Director](https://jobright.ai/jobs/info/689e53db83d13d1f5b6bac82?utm_campaign=Education%20and%20Training&utm_source=1103)** | Flemington, NJ | On Site | Sep 28 |
-| **[Plains Area Mental Health Center](https://plainsareamentalhealth.org)** | **[Psychologist-Storm Lake, IA](https://jobright.ai/jobs/info/68d98f91061b716fa295a8bf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Storm Lake, IA | On Site | Sep 28 |
-| ↳ | **[Psychologist-Denison IA](https://jobright.ai/jobs/info/68d98f6f9a8e451a446a4e62?utm_campaign=Education%20and%20Training&utm_source=1103)** | Denison, IA | On Site | Sep 28 |
-| **[Ability Building Community](https://www.abcinc.org)** | **[Program Coordinator](https://jobright.ai/jobs/info/68d9a7149a8e451a446a51d3?utm_campaign=Education%20and%20Training&utm_source=1103)** | Rochester, MN | On Site | Sep 28 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Psychologist - Correctional Care](https://jobright.ai/jobs/info/68840b1c6fcd973d15ae54b6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Denver, CO | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
