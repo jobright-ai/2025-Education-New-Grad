@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of California, Berkeley](http://berkeley.edu)** | **[Assistant Vice Chancellor & Director of Undergraduate Admissions](https://jobright.ai/jobs/info/68ccf010d11b445e0bee49e8?utm_campaign=Education%20and%20Training&utm_source=1103)** | Berkeley, CA | On Site | Oct 07 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Clinical Trial Assistant I/II](https://jobright.ai/jobs/info/68cb9a9cefdec76df36bf703?utm_campaign=Education%20and%20Training&utm_source=1103)** | Seattle, WA | On Site | Oct 07 |
 | **[Intrinsic Schools](http://intrinsicschools.org)** | **[Classroom Learning Assistant - SY 25/26 - Belmont Campus](https://jobright.ai/jobs/info/68c88cea983e6768bc54edc0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | On Site | Oct 07 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Training Coordinator (Hybrid - Acton, MA)](https://jobright.ai/jobs/info/68c88532f9c6ff7aedf0f8da?utm_campaign=Education%20and%20Training&utm_source=1103)** | Acton, MA | Hybrid | Oct 07 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/68c5bcaedb52c07d28843b9d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leon, IA | Hybrid | Oct 05 |
 | **[Rice University](http://www.rice.edu)** | **[Research Services Librarian, Business & Economics](https://jobright.ai/jobs/info/68d1aa168c62e63bc7fce39b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Houston, TX | Hybrid | Oct 05 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Animal Visitation & Therapy Program Associate - PRN](https://jobright.ai/jobs/info/68706f0906ad7073463bd99e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Washington, DC | On Site | Oct 05 |
-| **[University of California, Berkeley](http://berkeley.edu)** | **[Assistant Vice Chancellor & Director of Undergraduate Admissions](https://jobright.ai/jobs/info/68ccf010d11b445e0bee49e8?utm_campaign=Education%20and%20Training&utm_source=1103)** | Berkeley, CA | On Site | Oct 04 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Emerging Leaders Program- RPC Division](https://jobright.ai/jobs/info/68c54c13db52c07d288423c6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Winchester, KY | On Site | Oct 04 |
 | **[Centria Autism](http://www.centriahealth.com)** | **[Student Analyst (BCBA Trainee)](https://jobright.ai/jobs/info/68c500a2db52c07d2883f8f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 04 |
 | **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Autism Assistant / Pingree](https://jobright.ai/jobs/info/68d1fe5d8c62e63bc7fd2010?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 04 |
@@ -151,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Aegis Therapies](https://aegistherapies.com)** | **[Activities Assistant - full time](https://jobright.ai/jobs/info/68ce77e5846f0b04af67a3a6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Honolulu, HI | On Site | Sep 30 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Emergency Preparedness Program Coordinator](https://jobright.ai/jobs/info/68cfde36846f0b04af6859bf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Universal City, CA | On Site | Sep 30 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Internal Travel Registered Nurse (RN) - ECU Health North Hospital](https://jobright.ai/jobs/info/68a300eb403ad4363b1be5cd?utm_campaign=Education%20and%20Training&utm_source=1103)** | Roanoke Rapids, NC | On Site | Sep 30 |
-| **[Ann & Robert H. Lurie Children's Hospital of Chicago](https://www.luriechildrens.org)** | **[Clinical Informatics Program Coordinator](https://jobright.ai/jobs/info/68d5dea62116ff37ee090da2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Streeterville, IL | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
