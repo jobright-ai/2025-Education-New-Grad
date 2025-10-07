@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/68d0cd48f1976376178efb05?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kennesaw, GA | On Site | Oct 06 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Faculty, Physician Graduate Internal Medicine](https://jobright.ai/jobs/info/687271bba5ae807a59d069fe?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pasadena, CA | On Site | Oct 06 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68a8ad0c758f2e4ac3ff4487?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit, MI | On Site | Oct 05 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/68c5bcaedb52c07d28843b9d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leon, IA | Hybrid | Oct 05 |
@@ -164,14 +165,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABA Student Analyst, Field Work, Graduate Program](https://jobright.ai/jobs/info/68be645cc4c5904ff60061d8?utm_campaign=Education%20and%20Training&utm_source=1103)** | College Station, TX | On Site | Sep 30 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be642ec4c5904ff60061cc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pearland, TX | On Site | Sep 30 |
 | ↳ | **[ABA Student Analyst, Field Work, Graduate Program](https://jobright.ai/jobs/info/68be651fe57feb02eb0ae3cb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Portland, TX | On Site | Sep 30 |
-| **[Ivy Living](https://ivyliving.com)** | **[Activity Coordinator - ALZ](https://jobright.ai/jobs/info/68dbab7baa5f2e0e3c2f6037?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Sep 30 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be645cc4c5904ff60061d9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be65ef3d31ec76b7e8a1f3?utm_campaign=Education%20and%20Training&utm_source=1103)** | Raleigh, NC | On Site | Sep 30 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Direct Care Staff / Behavior Tech - Palmview House EBSH](https://jobright.ai/jobs/info/68bfa3688e65e77df55bc232?utm_campaign=Education%20and%20Training&utm_source=1103)** | Anaheim, CA | On Site | Sep 30 |
-| **[9Round Kickboxing Fitness](http://www.9round.com)** | **[Fitness Trainer Customer Service Sales in Leander, TX](https://jobright.ai/jobs/info/68db9a7134f2c406da6dba01?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leander, TX | On Site | Sep 30 |
-| **[The Learning Lamp](https://www.thelearninglamp.org)** | **[PreK Counts Aide](https://jobright.ai/jobs/info/68db97749f13662d20e4ec57?utm_campaign=Education%20and%20Training&utm_source=1103)** | Johnstown, PA | On Site | Sep 30 |
-| **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Registered Behavior Tech - Evenings](https://jobright.ai/jobs/info/68db97159f13662d20e4ebec?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pomona, CA | On Site | Sep 30 |
-| **[Arizona Liver Health](https://www.azliver.com/)** | **[VEN Centers Outreach Specialist (Weekends)](https://jobright.ai/jobs/info/689fd0a4cc9ee94dc911a04e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Maricopa County | On Site | Sep 30 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68be650de57feb02eb0ae3c5?utm_campaign=Education%20and%20Training&utm_source=1103)** | League City, TX | On Site | Sep 30 |
-| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Assistant/Associate Teaching Professor of Mechanical Engineering for the Engineering Partnership Program at Colorado Mesa University](https://jobright.ai/jobs/info/68db92609f13662d20e4e260?utm_campaign=Education%20and%20Training&utm_source=1103)** | Grand Junction, CO | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
