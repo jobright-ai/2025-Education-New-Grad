@@ -152,5 +152,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Therapist](https://jobright.ai/jobs/info/689ad2aafaa4e875e825ca15?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bloomfield Township, MI | On Site | Sep 30 |
 | **[Youth Opportunity Investments, LLC](https://youthopportunity.com)** | **[Activities Coordinator](https://jobright.ai/jobs/info/68bf3e4f702aa35207aa4990?utm_campaign=Education%20and%20Training&utm_source=1103)** | Ocala, FL | On Site | Sep 30 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Direct Care Staff / Behavior Tech - Stephanie House EBSH](https://jobright.ai/jobs/info/68c8f09295f5211cd2cebbc7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Garden Grove, CA | On Site | Sep 30 |
-| **[University of Nebraska-Lincoln](https://alec.unl.edu)** | **[Psychologist](https://jobright.ai/jobs/info/68cd08d41ad6b16f028936d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
