@@ -143,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[IT Job Training Program](https://jobright.ai/jobs/info/68c0c7b8702aa35207ab057e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Providence, RI | On Site | Oct 02 |
 | **[Freire Schools](http://www.freireschools.org)** | **[Admissions Coordinator (25-26 SY)](https://jobright.ai/jobs/info/68c04a4e5c5d5f14f46dc442?utm_campaign=Education%20and%20Training&utm_source=1103)** | Wilmington, DE | On Site | Oct 01 |
 | **[Parkland College](http://www.parkland.edu/)** | **[Assistant Teacher, Child Development Center](https://jobright.ai/jobs/info/68d4badd8c62e63bc7febe89?utm_campaign=Education%20and%20Training&utm_source=1103)** | Champaign, IL | On Site | Oct 01 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[IT Support Technical Instructor](https://jobright.ai/jobs/info/68bb67366105227d118a5b64?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit, MI | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
