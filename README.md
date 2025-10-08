@@ -151,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/68c0ddfc5c5d5f14f46e1c9c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Washington, DC | On Site | Oct 01 |
 | **[Empire State University](https://www.sunyempire.edu)** | **[Assistant/Associate Professor of Data Science](https://jobright.ai/jobs/info/68c036595c5d5f14f46dbcbf?utm_campaign=Education%20and%20Training&utm_source=1103)** | All, MO | On Site | Oct 01 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Correctional Psychologist](https://jobright.ai/jobs/info/682eb5f850933aca6d2c439a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Denver, CO | On Site | Oct 01 |
-| **[Concorde Career Colleges](https://www.concorde.edu/)** | **[Financial Aid Advisor - CCC](https://jobright.ai/jobs/info/68d01564846f0b04af6877ac?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Bernardino, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
