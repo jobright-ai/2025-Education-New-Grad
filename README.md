@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soar Autism Center](https://soarautismcenter.com/)** | **[Child Developmental Behavior Specialist](https://jobright.ai/jobs/info/68cd0b201ad6b16f02893d75?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | **[PROCEPT BioRobotics](http://procept-biorobotics.com)** | **[Associate Clinical Representative - Hartford, CT](https://jobright.ai/jobs/info/68ca97fccca9271990ce43ad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hartford, CT | On Site | Oct 08 |
 | **[University of California, Berkeley](http://berkeley.edu)** | **[Assistant Vice Chancellor & Director of Undergraduate Admissions](https://jobright.ai/jobs/info/68ccf010d11b445e0bee49e8?utm_campaign=Education%20and%20Training&utm_source=1103)** | Berkeley, CA | On Site | Oct 07 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Program Coordinator - Pulmonary Associates Northshore](https://jobright.ai/jobs/info/68ad6ab7758f2e4ac300d6bb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lake Success, NY | On Site | Oct 07 |
@@ -142,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Microbiology and Immunology – Faculty Position (Ladder Rank) – Assistant Professor](https://jobright.ai/jobs/info/68d5a52263d77d6f6f3f13b7?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Francisco, CA | On Site | Oct 02 |
 | **[Year Up United](http://yearup.org)** | **[IT Job Training Program](https://jobright.ai/jobs/info/68c0c7b8702aa35207ab057e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Providence, RI | On Site | Oct 02 |
 | **[Freire Schools](http://www.freireschools.org)** | **[Admissions Coordinator (25-26 SY)](https://jobright.ai/jobs/info/68c04a4e5c5d5f14f46dc442?utm_campaign=Education%20and%20Training&utm_source=1103)** | Wilmington, DE | On Site | Oct 01 |
-| **[Parkland College](http://www.parkland.edu/)** | **[Assistant Teacher, Child Development Center](https://jobright.ai/jobs/info/68d4badd8c62e63bc7febe89?utm_campaign=Education%20and%20Training&utm_source=1103)** | Champaign, IL | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
