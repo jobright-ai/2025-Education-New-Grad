@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albert Einstein College of Medicine](https://einsteinmed.edu/)** | **[Study Coordinator](https://jobright.ai/jobs/info/68d8e5c6061b716fa2959024?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bronx, NY | On Site | Oct 09 |
 | **[Humanscale](http://www.humanscale.com)** | **[Ergonomist](https://jobright.ai/jobs/info/689a51875574fd6bc0c81bf2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Summit, NJ | Hybrid | Oct 08 |
 | **[International Leadership of Texas](https://www.iltexas.org)** | **[7th Grade ELAR Teacher](https://jobright.ai/jobs/info/68c2e51f63829b0a8a4fdc0d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Grand Prairie, TX | On Site | Oct 08 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Financial Aid and Scholarship Coach](https://jobright.ai/jobs/info/68ae5351daf1431824ca2482?utm_campaign=Education%20and%20Training&utm_source=1103)** | Shafter, CA | On Site | Oct 08 |
 | **[Benchmark Human Services](http://benchmarkhs.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/67107bb510adfa2a3113f2be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bridgeport, CT | On Site | Oct 08 |
 | **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/68ccf08cd11b445e0bee4b3c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Humboldt, NE | Hybrid | Oct 08 |
-| **[Soar Autism Center](https://soarautismcenter.com/)** | **[Early Childhood Development Therapist](https://jobright.ai/jobs/info/68ccf57377add66568abc99b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mesa, AZ | On Site | Oct 08 |
+| **[Soar Autism Center](https://soarautismcenter.com/)** | **[Child Developmental Behavior Specialist](https://jobright.ai/jobs/info/68cd1286b2a74e1837ed1d26?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mesa, AZ | On Site | Oct 08 |
+| ↳ | **[Early Childhood Development Therapist](https://jobright.ai/jobs/info/68ccf57377add66568abc99b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mesa, AZ | On Site | Oct 08 |
 | ↳ | **[Child Developmental Behavior Specialist](https://jobright.ai/jobs/info/68cd0b201ad6b16f02893d75?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | ↳ | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68cf105cdbd9fb154ede4cc3?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mesa, AZ | On Site | Oct 08 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[Coach Counselor](https://jobright.ai/jobs/info/68adfe89daf1431824c9f8d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lecanto, FL | Hybrid | Oct 08 |
@@ -149,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Touchmark](https://www.touchmark.com)** | **[Activities Coordinator Life Enrichment](https://jobright.ai/jobs/info/68bfd1538e65e77df55bd45d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bend, OR | On Site | Oct 02 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Psychologist](https://jobright.ai/jobs/info/68d7560c295f8e37655d4b61?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Milestone Technologies, Inc.](http://www.milestonepowered.com)** | **[Training & Service Readiness Specialist](https://jobright.ai/jobs/info/68c2215a33864f172f9bd53a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New Albany, OH | On Site | Oct 02 |
-| **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[Child and Family Visitation Facilitator - Sioux Center, Iowa](https://jobright.ai/jobs/info/686749afd0165f4ce7e42bfc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Sheldon, IA | On Site | Oct 02 |
-| **[Soar Autism Center](https://soarautismcenter.com/)** | **[Play & Learning Specialist](https://jobright.ai/jobs/info/68d41abf5ae5a90cfd483199?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lone Tree, CO | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
