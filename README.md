@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Leadership of Texas](https://www.iltexas.org)** | **[5th Grade ELAR Teacher](https://jobright.ai/jobs/info/68c30bb75adaee6c9bda6869?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lancaster, TX | On Site | Oct 09 |
 | **[Albert Einstein College of Medicine](https://einsteinmed.edu/)** | **[Study Coordinator](https://jobright.ai/jobs/info/68d8e5c6061b716fa2959024?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bronx, NY | On Site | Oct 09 |
 | **[Humanscale](http://www.humanscale.com)** | **[Ergonomist](https://jobright.ai/jobs/info/689a51875574fd6bc0c81bf2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Summit, NJ | Hybrid | Oct 08 |
 | **[International Leadership of Texas](https://www.iltexas.org)** | **[7th Grade ELAR Teacher](https://jobright.ai/jobs/info/68c2e51f63829b0a8a4fdc0d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Grand Prairie, TX | On Site | Oct 08 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Autism Assistant / Pingree](https://jobright.ai/jobs/info/68d1fe5d8c62e63bc7fd2010?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 04 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Clinical Educator](https://jobright.ai/jobs/info/68c4655414bb275ce0192ead?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bethlehem, PA | On Site | Oct 04 |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Coordinator, On-Site, Hatboro, Pennsylvania](https://jobright.ai/jobs/info/68d0288bdbd9fb154ededd43?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hatboro, PA | On Site | Oct 04 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Clinical Educator](https://jobright.ai/jobs/info/68db63eb9f13662d20e4abcf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Daytona Beach, FL | On Site | Oct 04 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Emerging Leaders Program- RPC Division](https://jobright.ai/jobs/info/68c54bbb7d0db4114273382a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Jackson, TN | On Site | Oct 04 |
 | **[NYS Office for People With Developmental Disabilities](https://opwdd.ny.gov)** | **[Developmental Disabilities Secure Care Treatment Aide 1/Trainee (DDSCTA)](https://jobright.ai/jobs/info/6870417701cc0956e7e80a51?utm_campaign=Education%20and%20Training&utm_source=1103)** | Norwich, NY | On Site | Oct 04 |
 | ↳ | **[Associate Psychologist](https://jobright.ai/jobs/info/687040c306ad7073463bc7fa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kings County, NY | On Site | Oct 04 |
@@ -148,6 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Rite of Passage](https://riteofpassage.com/)** | **[YOUTH MENTOR—-Part-Time afternoon/evenings and weekends](https://jobright.ai/jobs/info/68a666b333dd7158bbc9fca7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cheyenne, WY | Hybrid | Oct 03 |
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Healthy Living Program Coordinator](https://jobright.ai/jobs/info/68d1de1a8c62e63bc7fd052e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 | **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Program Assistant / Adol Med - HHYP / Part-time / Days](https://jobright.ai/jobs/info/68a5533533dd7158bbc992ed?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 02 |
-| **[UNC Health](https://www.unchealth.org)** | **[Neurodiagnostic Tech II - Sleep Disorders](https://jobright.ai/jobs/info/68a53a0633dd7158bbc9821f?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chapel Hill, NC | On Site | Oct 02 |
-| **[Touchmark](https://www.touchmark.com)** | **[Activities Coordinator Life Enrichment](https://jobright.ai/jobs/info/68bfd1538e65e77df55bd45d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bend, OR | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
