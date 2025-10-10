@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[BCBA Fellowship - Field Work - Paoli, PA](https://jobright.ai/jobs/info/68cfc21d846f0b04af684ba9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Paoli, PA | On Site | Oct 10 |
+| **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[BCBA Fellowship - Field Work - Springfield, PA](https://jobright.ai/jobs/info/68ccb7ce7342c7623ae689f4?utm_campaign=Education%20and%20Training&utm_source=1103)** | Springfield, PA | On Site | Oct 10 |
+| **[NYS Office for People With Developmental Disabilities](https://opwdd.ny.gov)** | **[Associate Psychologist](https://jobright.ai/jobs/info/6876ce26ae2f413e4a5b3db4?utm_campaign=Education%20and%20Training&utm_source=1103)** | Richmond, NY | On Site | Oct 10 |
+| **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[BCBA Fellowship - Field Work - Chestnut Hill, PA](https://jobright.ai/jobs/info/68d129fdcece431f8b581c80?utm_campaign=Education%20and%20Training&utm_source=1103)** | Glenside, PA | On Site | Oct 10 |
+| ↳ | **[BCBA Fellowship - Field Work - Paoli, PA](https://jobright.ai/jobs/info/68cfc21d846f0b04af684ba9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Paoli, PA | On Site | Oct 10 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[ABA Student Analyst, Field Work, Graduate Program](https://jobright.ai/jobs/info/68cc49fe16d00d2beeb1d0d5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tucson, AZ | On Site | Oct 10 |
 | **[International Leadership of Texas](https://www.iltexas.org)** | **[5th Grade ELAR Teacher](https://jobright.ai/jobs/info/68c30bb75adaee6c9bda6869?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lancaster, TX | On Site | Oct 09 |
 | **[Johnson County Community College](http://www.jccc.edu)** | **[SRC Tutor I - Electronics Technology](https://jobright.ai/jobs/info/68928f93f5ee707a15dc6b66?utm_campaign=Education%20and%20Training&utm_source=1103)** | Overland Park, KS | On Site | Oct 09 |
@@ -128,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Sonoco](https://www.sonoco.com/)** | **[Emerging Leaders Program- RPC Division](https://jobright.ai/jobs/info/68c54c11c96a22563ece858f?utm_campaign=Education%20and%20Training&utm_source=1103)** | West Chester, OH | On Site | Oct 04 |
 | **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Apartment Specialist, Program Support Assistant](https://jobright.ai/jobs/info/68d3546bf0d9af73038e11f0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 03 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Bilingual Clinical Research Associate I – Ramin Lab (Spanish)](https://jobright.ai/jobs/info/68a851f56acf96396f71f6f7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Temporary MBA Student Experience Associate - McCombs School of Business - (UTEMPS)](https://jobright.ai/jobs/info/68d1a34fcece431f8b5865d2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Austin, TX | On Site | Oct 03 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Curriculum Developer](https://jobright.ai/jobs/info/68a7a67a33dd7158bbca88f5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pensacola, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
