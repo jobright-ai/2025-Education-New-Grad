@@ -58,8 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NYS Office for People With Developmental Disabilities](https://opwdd.ny.gov)** | **[Associate Psychologist](https://jobright.ai/jobs/info/6876ce26ae2f413e4a5b3db4?utm_campaign=Education%20and%20Training&utm_source=1103)** | Richmond, NY | On Site | Oct 10 |
-| **[Helping Hands Family - Autism Services](https://hhfamily.com/)** | **[BCBA Fellowship - Field Work - Drexel Hill, PA](https://jobright.ai/jobs/info/68d285f18c62e63bc7fd8111?utm_campaign=Education%20and%20Training&utm_source=1103)** | Drexel Hill, PA | On Site | Oct 10 |
-| **[NYS Office for People With Developmental Disabilities](https://opwdd.ny.gov)** | **[Associate Psychologist](https://jobright.ai/jobs/info/6876c1edae2f413e4a5b3439?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bronx, NY | On Site | Oct 10 |
+| ↳ | **[Associate Psychologist](https://jobright.ai/jobs/info/6876c1edae2f413e4a5b3439?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bronx, NY | On Site | Oct 10 |
 | **[Chinese American Service League](https://www.caslservice.org/)** | **[Developmental Therapy Clinical Manager](https://jobright.ai/jobs/info/689ad2e383d13d1f5b69cbd5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | Hybrid | Oct 10 |
 | **[University of Missouri-Columbia](https://missouri.edu)** | **[Child Development Assistant](https://jobright.ai/jobs/info/68adb06adaf1431824c9d7ca?utm_campaign=Education%20and%20Training&utm_source=1103)** | Columbia, MO | On Site | Oct 10 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[ABA Student Analyst, Field Work, Graduate Program](https://jobright.ai/jobs/info/68cc49fe16d00d2beeb1d0d5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tucson, AZ | On Site | Oct 10 |
@@ -125,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Rice University](http://www.rice.edu)** | **[Research Services Librarian, Business & Economics](https://jobright.ai/jobs/info/68d1aa168c62e63bc7fce39b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Houston, TX | Hybrid | Oct 05 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Animal Visitation & Therapy Program Associate - PRN](https://jobright.ai/jobs/info/68706f0906ad7073463bd99e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Washington, DC | On Site | Oct 05 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Emerging Leaders Program- RPC Division](https://jobright.ai/jobs/info/68c54c13db52c07d288423c6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Winchester, KY | On Site | Oct 04 |
-| ↳ | **[Emerging Leaders Program- RPC Division](https://jobright.ai/jobs/info/68cb8b53efdec76df36be5ac?utm_campaign=Education%20and%20Training&utm_source=1103)** | Orlando, FL | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
