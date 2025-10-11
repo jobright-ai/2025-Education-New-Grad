@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Psychologist](https://jobright.ai/jobs/info/68d7c066295f8e37655e18c7?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
 | **[Aegis Therapies](https://aegistherapies.com)** | **[Restorative CNA - Rehab Tech](https://jobright.ai/jobs/info/68c50297c96a22563ece5fc4?utm_campaign=Education%20and%20Training&utm_source=1103)** | Forest Lake, MN | On Site | Oct 04 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Emerging Leaders Program- RPC Division](https://jobright.ai/jobs/info/68c54c11c96a22563ece858f?utm_campaign=Education%20and%20Training&utm_source=1103)** | West Chester, OH | On Site | Oct 04 |
-| **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Apartment Specialist, Program Support Assistant](https://jobright.ai/jobs/info/68d3546bf0d9af73038e11f0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
