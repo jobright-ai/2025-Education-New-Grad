@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b13caf6fab621da7b0b79c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Irmo, SC | On Site | Oct 11 |
+| **[Kansas City Kansas Community College](http://www.kckcc.edu/)** | **[History](https://jobright.ai/jobs/info/68ccd0ccb274cd205ab4f677?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kansas City, KS | On Site | Oct 10 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/68d0cd48f1976376178efb05?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kennesaw, GA | On Site | Oct 10 |
 | **[University of Nebraska-Lincoln](https://alec.unl.edu)** | **[Psychologist](https://jobright.ai/jobs/info/68cd08d41ad6b16f028936d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | On Site | Oct 10 |
 | **[Pepperdine University](http://www.pepperdine.edu)** | **[PsyD Program Administrative Assistant](https://jobright.ai/jobs/info/68db25920dffed6f83d2cb4d?utm_campaign=Education%20and%20Training&utm_source=1103)** | LA Metro Area | On Site | Oct 10 |
