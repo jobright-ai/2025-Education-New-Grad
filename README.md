@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AltaMed Health Services](http://www.altamed.org/)** | **[Activities Coordinator](https://jobright.ai/jobs/info/68ce944d846f0b04af67b4a6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Santa Ana, CA | On Site | Oct 11 |
+| **[Walmart](http://www.walmart.com)** | **[Full-time 1st shift Training Coordinator - Pharmacy, Health and Wellness Operations](https://jobright.ai/jobs/info/68cde65db2a74e1837edd33a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Frederick, MD | On Site | Oct 11 |
 | **[KIPP Public Schools Northern California](https://kippnorcal.org)** | **[School Psychologist, Oakland](https://jobright.ai/jobs/info/680156330157e5a0cfd1c207?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Oct 11 |
 | **[PROCEPT BioRobotics](http://procept-biorobotics.com)** | **[Associate Clinical Representative - Southern Connecticut](https://jobright.ai/jobs/info/689ad581faa4e875e825cd17?utm_campaign=Education%20and%20Training&utm_source=1103)** | Stamford, CT | On Site | Oct 11 |
 | **[Kansas City Kansas Community College](http://www.kckcc.edu/)** | **[History](https://jobright.ai/jobs/info/68ccd0ccb274cd205ab4f677?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kansas City, KS | On Site | Oct 10 |
@@ -129,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68705cec06ad7073463bd463?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tucson, AZ | On Site | Oct 05 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Adjunct Professor - Early Care & Child Development](https://jobright.ai/jobs/info/68c8f33f983e6768bc554195?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oklahoma City, OK | On Site | Oct 05 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68a8ad0c758f2e4ac3ff4487?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit, MI | On Site | Oct 05 |
-| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/68c5bcaedb52c07d28843b9d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leon, IA | Hybrid | Oct 05 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Open Rank Tenure-Track Faculty - Marketing - Department of Business Administration](https://jobright.ai/jobs/info/68da30530b832179ca4abcdf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
