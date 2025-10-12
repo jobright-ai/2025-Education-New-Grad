@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b13caf6fab621da7b0b79c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Irmo, SC | On Site | Oct 11 |
 | **[KIPP Public Schools Northern California](https://kippnorcal.org)** | **[School Psychologist, Oakland](https://jobright.ai/jobs/info/680156330157e5a0cfd1c207?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oakland, CA | On Site | Oct 11 |
+| **[PROCEPT BioRobotics](http://procept-biorobotics.com)** | **[Associate Clinical Representative - Southern Connecticut](https://jobright.ai/jobs/info/689ad581faa4e875e825cd17?utm_campaign=Education%20and%20Training&utm_source=1103)** | Stamford, CT | On Site | Oct 11 |
 | **[Kansas City Kansas Community College](http://www.kckcc.edu/)** | **[History](https://jobright.ai/jobs/info/68ccd0ccb274cd205ab4f677?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kansas City, KS | On Site | Oct 10 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/68d0cd48f1976376178efb05?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kennesaw, GA | On Site | Oct 10 |
 | **[University of Nebraska-Lincoln](https://alec.unl.edu)** | **[Psychologist](https://jobright.ai/jobs/info/68cd08d41ad6b16f028936d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | On Site | Oct 10 |
@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[L&D Coordinator](https://jobright.ai/jobs/info/68ccf4e25954791a1d70198a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Rosemead, CA | Hybrid | Oct 10 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Technical Instructor (IT Support)](https://jobright.ai/jobs/info/68cd08b5b2a74e1837ed0cd0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Houston, TX | On Site | Oct 09 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Tenure-Track Assistant, Associate, or Full Professor - Department of Accountancy](https://jobright.ai/jobs/info/68cad65eefdec76df36b5ecc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 09 |
+| **[University of Illinois Springfield](http://www.uis.edu/)** | **[Area Coordinator](https://jobright.ai/jobs/info/68db6f819f13662d20e4b515?utm_campaign=Education%20and%20Training&utm_source=1103)** | Springfield, IL | On Site | Oct 09 |
 | **[Parexel](http://www.parexel.com)** | **[Research Associate (Per Diem - Weekends)](https://jobright.ai/jobs/info/68ae6837daf1431824ca2d07?utm_campaign=Education%20and%20Training&utm_source=1103)** | Baltimore, MD | On Site | Oct 09 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68afc527b47fb001d688ce6e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[IT Support Technical Instructor - (A+)](https://jobright.ai/jobs/info/687846b9866a435525ab7d3e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit, MI | On Site | Oct 09 |
@@ -130,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68a8ad0c758f2e4ac3ff4487?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit, MI | On Site | Oct 05 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/68c5bcaedb52c07d28843b9d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leon, IA | Hybrid | Oct 05 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Open Rank Tenure-Track Faculty - Marketing - Department of Business Administration](https://jobright.ai/jobs/info/68da30530b832179ca4abcdf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 05 |
-| **[Rice University](http://www.rice.edu)** | **[Research Services Librarian, Business & Economics](https://jobright.ai/jobs/info/68d1aa168c62e63bc7fce39b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Houston, TX | Hybrid | Oct 05 |
-| **[Children's National Hospital](http://childrensnational.org)** | **[Animal Visitation & Therapy Program Associate - PRN](https://jobright.ai/jobs/info/68706f0906ad7073463bd99e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Washington, DC | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
