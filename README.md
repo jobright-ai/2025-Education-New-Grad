@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - House of Sport](https://jobright.ai/jobs/info/68b2fd36f4e41a61efd8870b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schaumburg, IL | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Training and Communications Specialist Graduate (Ethics Office) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b25586f4e41a61efd838f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Signature HealthCARE](http://www.ltcrevolution.com/)** | **[Admissions Coordinator](https://jobright.ai/jobs/info/68cea1b2846f0b04af67bc2e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Erin, TN | On Site | Oct 12 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Clinical Research Coordinator FSM/CC](https://jobright.ai/jobs/info/68d6765ed3fe025a3015a01d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
