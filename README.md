@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merakey](https://www.merakey.org/)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68cff9acdbd9fb154edec70e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dearborn, MI | On Site | Oct 13 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - House of Sport](https://jobright.ai/jobs/info/68b2fd36f4e41a61efd8870b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schaumburg, IL | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Training and Communications Specialist Graduate (Ethics Office) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b25586f4e41a61efd838f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Signature HealthCARE](http://www.ltcrevolution.com/)** | **[Admissions Coordinator](https://jobright.ai/jobs/info/68cea1b2846f0b04af67bc2e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Erin, TN | On Site | Oct 12 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Clinical Research Coordinator FSM/CC](https://jobright.ai/jobs/info/68d6765ed3fe025a3015a01d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
+| **[PrairieCare](https://prairie-care.com)** | **[Group Facilitator](https://jobright.ai/jobs/info/685cad0abee1ebee8277b158?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 11 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Claims Training Program (2026) - Schaumburg](https://jobright.ai/jobs/info/68cec6a2dbd9fb154ede2b04?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schaumburg, IL | Hybrid | Oct 11 |
 | ↳ | **[Claims Training Program (2026) - Atlanta](https://jobright.ai/jobs/info/68b161066fab621da7b0d4b1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 11 |
 | **[Walmart](http://www.walmart.com)** | **[( USA)Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b2f45cbc187f64e1bdf75c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Washington, DC | On Site | Oct 11 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[PROCEPT BioRobotics](http://procept-biorobotics.com)** | **[Associate Clinical Representative - Southern Connecticut](https://jobright.ai/jobs/info/68ac4af0daf1431824c94574?utm_campaign=Education%20and%20Training&utm_source=1103)** | Norwalk, CT | On Site | Oct 07 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68705c2801cc0956e7e8162c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Midland, TX | On Site | Oct 07 |
 | **[Ednovate Inc](http://www.ednovate.org)** | **[2025-2026 Instructional Aide](https://jobright.ai/jobs/info/68913f28f5ee707a15dbd420?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
-| **[The Geneva Foundation](https://genevausa.org)** | **[Clinical Research Coordinator II (Certified Athletic Trainer)](https://jobright.ai/jobs/info/68ccca3ad99309000e5a3529?utm_campaign=Education%20and%20Training&utm_source=1103)** | West Point, NY | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
