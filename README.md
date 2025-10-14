@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Opportunity Partners](https://www.opportunities.org)** | **[Support Coach -Day Service Program](https://jobright.ai/jobs/info/6825fe80f6149662410b110b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 14 |
 | **[Merakey](https://www.merakey.org/)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68cff9acdbd9fb154edec70e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dearborn, MI | On Site | Oct 13 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - House of Sport](https://jobright.ai/jobs/info/68b2fd36f4e41a61efd8870b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schaumburg, IL | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Training and Communications Specialist Graduate (Ethics Office) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b25586f4e41a61efd838f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
