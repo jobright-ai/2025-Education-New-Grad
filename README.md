@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Soar Autism Center](https://soarautismcenter.com/)** | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68ccd791d11b445e0bee27f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | **[Humanscale](http://www.humanscale.com)** | **[Ergonomist](https://jobright.ai/jobs/info/689a51875574fd6bc0c81bf2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Summit, NJ | Hybrid | Oct 08 |
 | **[A.T. Still University](https://www.atsu.edu)** | **[ATSU - Instructional Designer, TLC](https://jobright.ai/jobs/info/68d748a6e5293e3538af3898?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kirksville, MO | Hybrid | Oct 08 |
-| **[International Leadership of Texas](https://www.iltexas.org)** | **[7th Grade ELAR Teacher](https://jobright.ai/jobs/info/68c2e51f63829b0a8a4fdc0d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Grand Prairie, TX | On Site | Oct 08 |
-| **[The Wonderful Company](http://www.wonderful.com/)** | **[Financial Aid and Scholarship Coach](https://jobright.ai/jobs/info/68ae5351daf1431824ca2482?utm_campaign=Education%20and%20Training&utm_source=1103)** | Shafter, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
