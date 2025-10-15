@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivy Rehab Network](http://www.ivyrehab.com/)** | **[Physical Therapist - Internal Float](https://jobright.ai/jobs/info/68d6431f894705799a2ea09e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Wappinger, NY | On Site | Oct 15 |
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Professional - Golf Galaxy](https://jobright.ai/jobs/info/68d3f1dc5ae5a90cfd482398?utm_campaign=Education%20and%20Training&utm_source=1103)** | Norwalk, CT | On Site | Oct 15 |
 | **[M3 USA](https://www.m3.com/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/689adcf2faa4e875e825d2a1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Newport Beach, CA | On Site | Oct 15 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Finance Leadership Development Associate (Rotational Program)](https://jobright.ai/jobs/info/68ccf46177add66568abc778?utm_campaign=Education%20and%20Training&utm_source=1103)** | East Hanover, NJ | On Site | Oct 15 |
