@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Diabetes Educator - Internal Medicine](https://jobright.ai/jobs/info/689106014c7e851b90acb564?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bellingham, WA | On Site | Oct 08 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Photography Teacher](https://jobright.ai/jobs/info/68d3d6095ae5a90cfd481d74?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b09eb4b47fb001d6893d64?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lancaster, NY | On Site | Oct 08 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Behavioral Research Fellows, Research Support](https://jobright.ai/jobs/info/68ce487c846f0b04af677d38?utm_campaign=Education%20and%20Training&utm_source=1103)** | Evanston, IL | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
