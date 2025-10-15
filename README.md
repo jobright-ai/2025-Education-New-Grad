@@ -120,6 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Child Developmental Behavior Specialist](https://jobright.ai/jobs/info/68cd0b201ad6b16f02893d75?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | ↳ | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68cf105cdbd9fb154ede4cc3?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mesa, AZ | On Site | Oct 08 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[Coach Counselor](https://jobright.ai/jobs/info/68adfe89daf1431824c9f8d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lecanto, FL | Hybrid | Oct 08 |
-| **[PROCEPT BioRobotics](http://procept-biorobotics.com)** | **[Associate Clinical Representative - Hartford, CT](https://jobright.ai/jobs/info/68ca97fccca9271990ce43ad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hartford, CT | On Site | Oct 08 |
-| **[PeaceHealth](https://www.peacehealth.org)** | **[Diabetes Educator - Internal Medicine](https://jobright.ai/jobs/info/689106014c7e851b90acb564?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bellingham, WA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
