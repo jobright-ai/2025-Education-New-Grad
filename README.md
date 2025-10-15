@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M3 USA](https://www.m3.com/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/689adcf2faa4e875e825d2a1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Newport Beach, CA | On Site | Oct 15 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Finance Leadership Development Associate (Rotational Program)](https://jobright.ai/jobs/info/68ccf46177add66568abc778?utm_campaign=Education%20and%20Training&utm_source=1103)** | East Hanover, NJ | On Site | Oct 15 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68cd395f1ad6b16f028969aa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Miami, FL | On Site | Oct 14 |
 | **[Soar Autism Center](https://soarautismcenter.com/)** | **[Child Developmental Behavior Specialist](https://jobright.ai/jobs/info/68d151f18c62e63bc7fca50a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson County Community College](http://www.jccc.edu)** | **[SRC Tutor I - Electronics Technology](https://jobright.ai/jobs/info/68928f93f5ee707a15dc6b66?utm_campaign=Education%20and%20Training&utm_source=1103)** | Overland Park, KS | On Site | Oct 09 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b07b022d46f6396cae5cc0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Manchester, MO | On Site | Oct 09 |
 | **[Carrington College](https://carrington.edu/who-is-carrington-college/)** | **[Radiologic Technology Clinical Coordinator](https://jobright.ai/jobs/info/68cd30c7b2a74e1837ed3a8c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fresno, CA | On Site | Oct 09 |
-| **[Soar Autism Center](https://soarautismcenter.com/)** | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68ccd791d11b445e0bee27f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
