@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 15 |
-| **[Tier One](http://www.tieroneus.com/)** | **[Armed Security Guard - DFW Schools](https://jobright.ai/jobs/info/68cb3828efdec76df36ba361?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
+| **[Tier One](http://www.tieroneus.com/)** | **[Armed School Security Officer](https://jobright.ai/jobs/info/68cb3a0cefdec76df36ba672?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
+| ↳ | **[Armed Security Guard - DFW Schools](https://jobright.ai/jobs/info/68cb3828efdec76df36ba361?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
 | **[Ivy Rehab Network](http://www.ivyrehab.com/)** | **[Physical Therapist - Internal Float](https://jobright.ai/jobs/info/68d6431f894705799a2ea09e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Wappinger, NY | On Site | Oct 15 |
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Professional - Golf Galaxy](https://jobright.ai/jobs/info/68d3f1dc5ae5a90cfd482398?utm_campaign=Education%20and%20Training&utm_source=1103)** | Norwalk, CT | On Site | Oct 15 |
 | **[M3 USA](https://www.m3.com/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/689adcf2faa4e875e825d2a1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Newport Beach, CA | On Site | Oct 15 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[International Leadership of Texas](https://www.iltexas.org)** | **[5th Grade ELAR Teacher](https://jobright.ai/jobs/info/68c30bb75adaee6c9bda6869?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lancaster, TX | On Site | Oct 09 |
 | **[Johnson County Community College](http://www.jccc.edu)** | **[SRC Tutor I - Electronics Technology](https://jobright.ai/jobs/info/68928f93f5ee707a15dc6b66?utm_campaign=Education%20and%20Training&utm_source=1103)** | Overland Park, KS | On Site | Oct 09 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b07b022d46f6396cae5cc0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Manchester, MO | On Site | Oct 09 |
-| **[Carrington College](https://carrington.edu/who-is-carrington-college/)** | **[Radiologic Technology Clinical Coordinator](https://jobright.ai/jobs/info/68cd30c7b2a74e1837ed3a8c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fresno, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
