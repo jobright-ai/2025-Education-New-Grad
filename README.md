@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Training and Compliance Instructor - First Aid and Safety](https://jobright.ai/jobs/info/689a77f483d13d1f5b699110?utm_campaign=Education%20and%20Training&utm_source=1103)** | Middletown, NY | On Site | Oct 16 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 15 |
 | **[Tier One](http://www.tieroneus.com/)** | **[Armed School Security Officer](https://jobright.ai/jobs/info/68cb3a0cefdec76df36ba672?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
 | ↳ | **[Armed Security Guard - DFW Schools](https://jobright.ai/jobs/info/68cb3828efdec76df36ba361?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[L&D Coordinator](https://jobright.ai/jobs/info/68ccf4e25954791a1d70198a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Rosemead, CA | Hybrid | Oct 10 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Showcase Presenter (Japanese-Speaking)](https://jobright.ai/jobs/info/6892fbed4c7e851b90adb0ef?utm_campaign=Education%20and%20Training&utm_source=1103)** | Honolulu, HI | On Site | Oct 10 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Tenure-Track Assistant, Associate, or Full Professor - Department of Accountancy](https://jobright.ai/jobs/info/68cad65eefdec76df36b5ecc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 09 |
-| **[Parexel](http://www.parexel.com)** | **[Research Associate (Per Diem - Weekends)](https://jobright.ai/jobs/info/68ae6837daf1431824ca2d07?utm_campaign=Education%20and%20Training&utm_source=1103)** | Baltimore, MD | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
