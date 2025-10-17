@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[TruStage](https://www.trustage.com/)** | **[Advisor Coordinator - PenFed Credit Union (DC/VA/MD Metro) on-site Woodbridge VA](https://jobright.ai/jobs/info/68afdbe913563e782a9f1ebb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Woodbridge, VA | On Site | Oct 10 |
 | **[Kansas City Kansas Community College](http://www.kckcc.edu/)** | **[History](https://jobright.ai/jobs/info/68ccd0ccb274cd205ab4f677?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kansas City, KS | On Site | Oct 10 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/68d0cd48f1976376178efb05?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kennesaw, GA | On Site | Oct 10 |
-| **[Princeton University](http://www.princeton.edu)** | **[Faculty Assistant](https://jobright.ai/jobs/info/68cc58d7128dc347fd922d8d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Princeton, NJ | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
