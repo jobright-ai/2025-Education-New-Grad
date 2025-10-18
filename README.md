@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
+| **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Texas](https://jobright.ai/jobs/info/68ba31fd5f38327491864a32?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dallas, TX | On Site | Oct 17 |
 | **[Soar Autism Center](https://soarautismcenter.com/)** | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68d697e7d3fe025a3015a8eb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gilbert, AZ | On Site | Oct 17 |
 | **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/688088a62097a271a89a6019?utm_campaign=Education%20and%20Training&utm_source=1103)** | McAlester, OK | Hybrid | Oct 17 |
 | **[LifeStance Health](https://lifestance.com/)** | **[Clinical Psychologist (PhD, Psy D)-Post Doctoral Fellow](https://jobright.ai/jobs/info/68d7770b295f8e37655da991?utm_campaign=Education%20and%20Training&utm_source=1103)** | Nashua, NH | Hybrid | Oct 17 |
@@ -102,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Training and Communications Specialist Graduate (Ethics Office) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b25586f4e41a61efd838f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Signature HealthCARE](http://www.ltcrevolution.com/)** | **[Admissions Coordinator](https://jobright.ai/jobs/info/68cea1b2846f0b04af67bc2e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Erin, TN | On Site | Oct 12 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Clinical Research Coordinator FSM/CC](https://jobright.ai/jobs/info/68d6765ed3fe025a3015a01d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
-| **[PrairieCare](https://prairie-care.com)** | **[Group Facilitator](https://jobright.ai/jobs/info/685cad0abee1ebee8277b158?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
