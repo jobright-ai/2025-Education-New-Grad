@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Texas](https://jobright.ai/jobs/info/68ba31fd5f38327491864a32?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dallas, TX | On Site | Oct 17 |
 | **[Soar Autism Center](https://soarautismcenter.com/)** | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68d697e7d3fe025a3015a8eb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gilbert, AZ | On Site | Oct 17 |
@@ -98,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[PAM Health Specialty Hospital of San Antonio Medical Center](https://pamhealth.com/facilities/find-facility/specialty-hospitals/pam-specialty-hospital-san-antonio-south-campus)** | **[Occupational Therapist (OTR) - PRN Days $50/HR / San Antonio Med Center LTACH](https://jobright.ai/jobs/info/68d776267a37c712687cd7ef?utm_campaign=Education%20and%20Training&utm_source=1103)** | San Antonio, TX | On Site | Oct 14 |
 | **[Guthrie](http://www.guthrie.org)** | **[Ophthalmology - Cornea Specialist (Sayre, PA)](https://jobright.ai/jobs/info/683e98eed2f57f2dc7894ebd?utm_campaign=Education%20and%20Training&utm_source=1103)** | Sayre, PA | On Site | Oct 13 |
 | **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68cffc6ffb49c96ca6ead272?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greensboro, NC | On Site | Oct 13 |
+| **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Board Certified Behavior Analyst / Pingree](https://jobright.ai/jobs/info/68d676c645853d0e39cc7df9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 12 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[ED Unit Resource Coordinator](https://jobright.ai/jobs/info/685d3d9bd36c48a3b72cd8ad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lanham, MD | On Site | Oct 12 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - House of Sport](https://jobright.ai/jobs/info/68b2fd36f4e41a61efd8870b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schaumburg, IL | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Training and Communications Specialist Graduate (Ethics Office) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b25586f4e41a61efd838f9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Signature HealthCARE](http://www.ltcrevolution.com/)** | **[Admissions Coordinator](https://jobright.ai/jobs/info/68cea1b2846f0b04af67bc2e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Erin, TN | On Site | Oct 12 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Clinical Research Coordinator FSM/CC](https://jobright.ai/jobs/info/68d6765ed3fe025a3015a01d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
