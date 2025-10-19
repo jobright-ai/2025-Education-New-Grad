@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Guthrie](http://www.guthrie.org)** | **[Ophthalmology - Cornea Specialist (Sayre, PA)](https://jobright.ai/jobs/info/683e98eed2f57f2dc7894ebd?utm_campaign=Education%20and%20Training&utm_source=1103)** | Sayre, PA | On Site | Oct 13 |
 | **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68cffc6ffb49c96ca6ead272?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greensboro, NC | On Site | Oct 13 |
 | **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Board Certified Behavior Analyst / Pingree](https://jobright.ai/jobs/info/68d676c645853d0e39cc7df9?utm_campaign=Education%20and%20Training&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 12 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[ED Unit Resource Coordinator](https://jobright.ai/jobs/info/685d3d9bd36c48a3b72cd8ad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lanham, MD | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
