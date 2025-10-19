@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[Sign Language Interpreter & Substitute Sign Language Interpreter (SY 25-26)](https://jobright.ai/jobs/info/68bb323d5f3832749186d040?utm_campaign=Education%20and%20Training&utm_source=1103)** | Columbus, OH | On Site | Oct 19 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Sevita](https://sevitahealth.com)** | **[Board Certified Behavioral Analyst (BCBA)](https://jobright.ai/jobs/info/68c8886a983e6768bc54e769?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kansas City, MO | On Site | Oct 16 |
 | ↳ | **[Board Certified Behavioral Analyst (BCBA)](https://jobright.ai/jobs/info/68c88b0bf9c6ff7aedf100fe?utm_campaign=Education%20and%20Training&utm_source=1103)** | Poplar Bluff, MO | On Site | Oct 16 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant/Assoicate Professor Cell & Developmental Biology](https://jobright.ai/jobs/info/68ad25c2d627244576e4b93a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 16 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b986056105227d1189537e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Paragould, AR | On Site | Oct 16 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Community Empowerment Volunteer in the Azores](https://jobright.ai/jobs/info/6826075b60f2af99db538662?utm_campaign=Education%20and%20Training&utm_source=1103)** | Berkeley, CA | On Site | Oct 16 |
 | ↳ | **[Volunteer: Community Empowerment Volunteer in the Azores](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f3745?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pasadena, CA | On Site | Oct 16 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant](https://jobright.ai/jobs/info/689b416783d13d1f5b69f30f?utm_campaign=Education%20and%20Training&utm_source=1103)** | Ellensburg, WA | Hybrid | Oct 16 |
