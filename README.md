@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68d93823022fc803b4876ddb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gastonia, NC | On Site | Oct 19 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[Sign Language Interpreter & Substitute Sign Language Interpreter (SY 25-26)](https://jobright.ai/jobs/info/68bb323d5f3832749186d040?utm_campaign=Education%20and%20Training&utm_source=1103)** | Columbus, OH | On Site | Oct 19 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
