@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c61b92d669355a9df0703?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 20 |
 | **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68d9369d061b716fa295a0dc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Holly Springs, NC | On Site | Oct 19 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Activities Coordinator in Los Angeles County](https://jobright.ai/jobs/info/680fda7e052a199f6f077997?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 19 |
 | **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68d93823022fc803b4876ddb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gastonia, NC | On Site | Oct 19 |
