@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AltaMed Health Services](http://www.altamed.org/)** | **[Activities Coordinator in Los Angeles County](https://jobright.ai/jobs/info/680fda7e052a199f6f077997?utm_campaign=Education%20and%20Training&utm_source=1103)** | Los Angeles, CA | On Site | Oct 19 |
 | **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68d93823022fc803b4876ddb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gastonia, NC | On Site | Oct 19 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[Sign Language Interpreter & Substitute Sign Language Interpreter (SY 25-26)](https://jobright.ai/jobs/info/68bb323d5f3832749186d040?utm_campaign=Education%20and%20Training&utm_source=1103)** | Columbus, OH | On Site | Oct 19 |
+| **[Rite of Passage](https://riteofpassage.com/)** | **[Awake Night Staff Youth Mentor - Sign On Bonus Available](https://jobright.ai/jobs/info/68ccdb1cd11b445e0bee32a7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Idaho Springs, CO | On Site | Oct 18 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
