@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b68d42bc187f64e1bea977?utm_campaign=Education%20and%20Training&utm_source=1103)** | Landover Hills, MD | On Site | Oct 15 |
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Professional - Golf Galaxy](https://jobright.ai/jobs/info/68b5a167f4e41a61efd90944?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 15 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Emergency Preparedness Program Coordinator](https://jobright.ai/jobs/info/68cfde36846f0b04af6859bf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Universal City, CA | On Site | Oct 14 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Professor, Finance](https://jobright.ai/jobs/info/68d1c2fca54edb3bf3e15ea5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Evanston, IL | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
