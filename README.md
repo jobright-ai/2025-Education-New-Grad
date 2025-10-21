@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ed02?utm_campaign=Education%20and%20Training&utm_source=1103)** | Aberdeen, WA | Hybrid | Oct 20 |
+| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c5e0bb0be8888803083ae?utm_campaign=Education%20and%20Training&utm_source=1103)** | Westport, WA | Hybrid | Oct 20 |
+| ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ed02?utm_campaign=Education%20and%20Training&utm_source=1103)** | Aberdeen, WA | Hybrid | Oct 20 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - DICK'S House Of Sport](https://jobright.ai/jobs/info/68bd80a9c4c5904ff6003aa6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 20 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c61b92d669355a9df0703?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 20 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68cd395f1ad6b16f028969aa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Miami, FL | On Site | Oct 19 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68d93823022fc803b4876ddb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gastonia, NC | On Site | Oct 19 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[Sign Language Interpreter & Substitute Sign Language Interpreter (SY 25-26)](https://jobright.ai/jobs/info/68bb323d5f3832749186d040?utm_campaign=Education%20and%20Training&utm_source=1103)** | Columbus, OH | On Site | Oct 19 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[Awake Night Staff Youth Mentor - Sign On Bonus Available](https://jobright.ai/jobs/info/68ccdb1cd11b445e0bee32a7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Idaho Springs, CO | On Site | Oct 18 |
+| **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - NYC](https://jobright.ai/jobs/info/68cb05ceefdec76df36b78bd?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Oct 18 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Atlanta/Alpharetta](https://jobright.ai/jobs/info/68ba33aa5f38327491864e45?utm_campaign=Education%20and%20Training&utm_source=1103)** | Atlanta, GA | On Site | Oct 17 |
