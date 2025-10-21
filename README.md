@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c5e0bb0be8888803083ae?utm_campaign=Education%20and%20Training&utm_source=1103)** | Westport, WA | Hybrid | Oct 20 |
+| ↳ | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecd6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dalhart, TX | Hybrid | Oct 20 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ed02?utm_campaign=Education%20and%20Training&utm_source=1103)** | Aberdeen, WA | Hybrid | Oct 20 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - DICK'S House Of Sport](https://jobright.ai/jobs/info/68bd80a9c4c5904ff6003aa6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 20 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c61b92d669355a9df0703?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 20 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - NYC](https://jobright.ai/jobs/info/68cb05ceefdec76df36b78bd?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Oct 18 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
+| **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, 4-H Youth Development](https://jobright.ai/jobs/info/68b86c7507090163b6ba1879?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cleveland County, OK | On Site | Oct 17 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Atlanta/Alpharetta](https://jobright.ai/jobs/info/68ba33aa5f38327491864e45?utm_campaign=Education%20and%20Training&utm_source=1103)** | Atlanta, GA | On Site | Oct 17 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68d9f1d89a8e451a446a5791?utm_campaign=Education%20and%20Training&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Chicago](https://jobright.ai/jobs/info/68ba31866105227d1189b7e5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | On Site | Oct 17 |
@@ -111,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Professional - Golf Galaxy](https://jobright.ai/jobs/info/68b5a167f4e41a61efd90944?utm_campaign=Education%20and%20Training&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 15 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Emergency Preparedness Program Coordinator](https://jobright.ai/jobs/info/68cfde36846f0b04af6859bf?utm_campaign=Education%20and%20Training&utm_source=1103)** | Universal City, CA | On Site | Oct 14 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Professor, Finance](https://jobright.ai/jobs/info/68d1c2fca54edb3bf3e15ea5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Evanston, IL | On Site | Oct 14 |
-| **[National Capital Treatment & Recovery, formerly Phoenix House Mid-Atlantic](https://www.natcaptreatment.org)** | **[Residential Behavioral Health Tech](https://jobright.ai/jobs/info/68d776227a37c712687cd7d4?utm_campaign=Education%20and%20Training&utm_source=1103)** | Arlington, VA | On Site | Oct 14 |
-| **[Opportunity Partners](https://www.opportunities.org)** | **[Support Coach -Day Service Program](https://jobright.ai/jobs/info/6825fe80f6149662410b110b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
