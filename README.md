@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c5e0bb0be8888803083ae?utm_campaign=Education%20and%20Training&utm_source=1103)** | Westport, WA | Hybrid | Oct 20 |
 | ↳ | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecd6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dalhart, TX | Hybrid | Oct 20 |
-| ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ed02?utm_campaign=Education%20and%20Training&utm_source=1103)** | Aberdeen, WA | Hybrid | Oct 20 |
+| **[City of Hope](http://www.cityofhope.org)** | **[PM&R - Irvine, CA](https://jobright.ai/jobs/info/68ccc764fa466330fef90fc6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Irvine, CA | On Site | Oct 20 |
+| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ed02?utm_campaign=Education%20and%20Training&utm_source=1103)** | Aberdeen, WA | Hybrid | Oct 20 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - DICK'S House Of Sport](https://jobright.ai/jobs/info/68bd80a9c4c5904ff6003aa6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 20 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c61b92d669355a9df0703?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 20 |
 | **[Hopebridge](https://www.hopebridge.com/)** | **[Help Kids with Autism- RBT Certification Required - $800 Sign-On Bonus!!](https://jobright.ai/jobs/info/68843f04fbbf032d00066473?utm_campaign=Education%20and%20Training&utm_source=1103)** | Osceola, IN | On Site | Oct 19 |
