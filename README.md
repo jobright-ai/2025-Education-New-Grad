@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68153ec9c9ec0b79053a701a?utm_campaign=Education%20and%20Training&utm_source=1103)** | United States | Remote | Oct 22 |
 | **[RehabVisions](https://rehabvisions.com)** | **[PTA - Physical Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecb2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Espanola, NM | Hybrid | Oct 21 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[COACH COUNSELOR](https://jobright.ai/jobs/info/68dad95f6df7b8311bb1308f?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greenville, FL | On Site | Oct 21 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c5e0bb0be8888803083ae?utm_campaign=Education%20and%20Training&utm_source=1103)** | Westport, WA | Hybrid | Oct 20 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ed02?utm_campaign=Education%20and%20Training&utm_source=1103)** | Aberdeen, WA | Hybrid | Oct 20 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - DICK'S House Of Sport](https://jobright.ai/jobs/info/68bd80a9c4c5904ff6003aa6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 20 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c61b92d669355a9df0703?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 20 |
+| **[CHE Behavioral Health Services](http://cheservices.com)** | **[Licensed Clinical Psychologist](https://jobright.ai/jobs/info/68ce8565dbd9fb154ede0540?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mountain View, CA | Hybrid | Oct 20 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[RN - Detroit Lakes Clinic - Internal Medicine](https://jobright.ai/jobs/info/683a174493f88b606b501aaa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit Lakes, MN | On Site | Oct 20 |
 | **[Hopebridge](https://www.hopebridge.com/)** | **[Help Kids with Austin - RBT Certification Required!  - $800 Sign-On Bonus!!](https://jobright.ai/jobs/info/688439d24174df41e0f902c2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mishawaka, IN | On Site | Oct 20 |
 | **[Hopebridge](https://www.hopebridge.com/)** | **[Help Kids with Autism- RBT Certification Required - $800 Sign-On Bonus!!](https://jobright.ai/jobs/info/68843f04fbbf032d00066473?utm_campaign=Education%20and%20Training&utm_source=1103)** | Osceola, IN | On Site | Oct 19 |
