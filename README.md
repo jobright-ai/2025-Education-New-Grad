@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Lana'i Cultural Advisor](https://jobright.ai/jobs/info/687ee923db19f31cf0d6e108?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lanai City, HI | On Site | Oct 16 |
 | **[Sevita](https://sevitahealth.com)** | **[Board Certified Behavoiral Analyst (BCBA)](https://jobright.ai/jobs/info/68d3d4c15ae5a90cfd481cee?utm_campaign=Education%20and%20Training&utm_source=1103)** | Alexandria, MN | Hybrid | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Support Coach](https://jobright.ai/jobs/info/66c8a446990c35912c393134?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 15 |
-| **[Youth Opportunity Investments, LLC](https://youthopportunity.com)** | **[Activities Coordinator](https://jobright.ai/jobs/info/68d2fe23f0d9af73038ddfdc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Rockwood, TN | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
