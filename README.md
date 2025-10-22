@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c5e0bb0be88888030839e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hillsboro, KS | Hybrid | Oct 22 |
+| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Watkins, MN | Hybrid | Oct 22 |
+| ↳ | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c5e0bb0be88888030839e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hillsboro, KS | Hybrid | Oct 22 |
 | ↳ | **[PTA - Physical Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecd1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 22 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68153ec9c9ec0b79053a701a?utm_campaign=Education%20and%20Training&utm_source=1103)** | United States | Remote | Oct 22 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Fitness Program Coordinator](https://jobright.ai/jobs/info/68ba3f9a8043103d4f21ef64?utm_campaign=Education%20and%20Training&utm_source=1103)** | Merrimack, NH | On Site | Oct 21 |
@@ -104,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Training and Compliance Instructor - First Aid and Safety](https://jobright.ai/jobs/info/689a77f483d13d1f5b699110?utm_campaign=Education%20and%20Training&utm_source=1103)** | Middletown, NY | On Site | Oct 16 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Lana'i Cultural Advisor](https://jobright.ai/jobs/info/687ee923db19f31cf0d6e108?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lanai City, HI | On Site | Oct 16 |
 | **[Sevita](https://sevitahealth.com)** | **[Board Certified Behavoiral Analyst (BCBA)](https://jobright.ai/jobs/info/68d3d4c15ae5a90cfd481cee?utm_campaign=Education%20and%20Training&utm_source=1103)** | Alexandria, MN | Hybrid | Oct 15 |
-| **[Opportunity Partners](https://www.opportunities.org)** | **[Support Coach](https://jobright.ai/jobs/info/66c8a446990c35912c393134?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
