@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RehabVisions](https://rehabvisions.com)** | **[PTA - Physical Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecb2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Espanola, NM | Hybrid | Oct 21 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[COACH COUNSELOR](https://jobright.ai/jobs/info/68dad95f6df7b8311bb1308f?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greenville, FL | On Site | Oct 21 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c5e0bb0be8888803083ae?utm_campaign=Education%20and%20Training&utm_source=1103)** | Westport, WA | Hybrid | Oct 20 |
 | ↳ | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecd6?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dalhart, TX | Hybrid | Oct 20 |
