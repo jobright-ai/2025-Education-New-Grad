@@ -101,7 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Sevita](https://sevitahealth.com)** | **[Board Certified Behavoiral Analyst (BCBA)](https://jobright.ai/jobs/info/68d3d4c15ae5a90cfd481cee?utm_campaign=Education%20and%20Training&utm_source=1103)** | Alexandria, MN | Hybrid | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Support Coach](https://jobright.ai/jobs/info/66c8a446990c35912c393134?utm_campaign=Education%20and%20Training&utm_source=1103)** | Minneapolis, MN | On Site | Oct 15 |
 | **[Youth Opportunity Investments, LLC](https://youthopportunity.com)** | **[Activities Coordinator](https://jobright.ai/jobs/info/68d2fe23f0d9af73038ddfdc?utm_campaign=Education%20and%20Training&utm_source=1103)** | Rockwood, TN | On Site | Oct 15 |
-| **[Tier One](http://www.tieroneus.com/)** | **[Armed School Security Officer](https://jobright.ai/jobs/info/68cb3a0cefdec76df36ba672?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
-| ↳ | **[Armed Security Guard - DFW Schools](https://jobright.ai/jobs/info/68cb3828efdec76df36ba361?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
-| **[MultiCare Health System](http://www.multicare.org)** | **[Radiologic Technologist - Pediatric](https://jobright.ai/jobs/info/6863ec4ca788e88bb75db676?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tacoma, WA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
