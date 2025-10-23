@@ -99,6 +99,5 @@ For a complete list, click the following sortable link below:
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Texas](https://jobright.ai/jobs/info/68ba31fd5f38327491864a32?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dallas, TX | On Site | Oct 17 |
 | **[Soar Autism Center](https://soarautismcenter.com/)** | **[Entry-Level Developmental Therapist](https://jobright.ai/jobs/info/68d697e7d3fe025a3015a8eb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Gilbert, AZ | On Site | Oct 17 |
 | **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/688088a62097a271a89a6019?utm_campaign=Education%20and%20Training&utm_source=1103)** | McAlester, OK | Hybrid | Oct 17 |
-| **[LifeStance Health](https://lifestance.com/)** | **[Clinical Psychologist (PsyD, PhD)-Post Doctoral Fellow](https://jobright.ai/jobs/info/68d77be2267b154f9a2da72c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Manchester, NH | Hybrid | Oct 17 |
 | **[ABS Kids](https://www.abskids.com)** | **[BA Trainee](https://jobright.ai/jobs/info/68d531c2820803491963a1e5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hesperia, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
