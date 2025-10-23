@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Community Empowerment Volunteer in the Azores](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f3745?utm_campaign=Education%20and%20Training&utm_source=1103)** | Pasadena, CA | On Site | Oct 16 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant](https://jobright.ai/jobs/info/689b416783d13d1f5b69f30f?utm_campaign=Education%20and%20Training&utm_source=1103)** | Ellensburg, WA | Hybrid | Oct 16 |
 | **[Cintas](https://www.cintas.com)** | **[Training and Compliance Instructor - First Aid and Safety](https://jobright.ai/jobs/info/689a77f483d13d1f5b699110?utm_campaign=Education%20and%20Training&utm_source=1103)** | Middletown, NY | On Site | Oct 16 |
-| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Lana'i Cultural Advisor](https://jobright.ai/jobs/info/687ee923db19f31cf0d6e108?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lanai City, HI | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
