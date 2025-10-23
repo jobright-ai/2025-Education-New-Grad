@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Watkins, MN | Hybrid | Oct 22 |
+| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c7447480a10a74c90fd2d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Willmar, MN | Hybrid | Oct 22 |
+| ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ee5c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Vinton, IA | Hybrid | Oct 22 |
+| ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Watkins, MN | Hybrid | Oct 22 |
+| ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecdb?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dalhart, TX | Hybrid | Oct 22 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1eca1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Socorro, NM | Hybrid | Oct 22 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ee59?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hiawatha, KS | Hybrid | Oct 22 |
 | ↳ | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c5e0bb0be88888030839e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hillsboro, KS | Hybrid | Oct 22 |
