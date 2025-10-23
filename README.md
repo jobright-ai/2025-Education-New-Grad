@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[RRT/PSG Tech](https://jobright.ai/jobs/info/68a3f0642d2a252445cd4498?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cincinnati, OH | On Site | Oct 23 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/684c7447480a10a74c90fd2d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Willmar, MN | Hybrid | Oct 22 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ee5c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Vinton, IA | Hybrid | Oct 22 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecad?utm_campaign=Education%20and%20Training&utm_source=1103)** | Watkins, MN | Hybrid | Oct 22 |
