@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Board Certified Behavioral Analyst (BCBA)](https://jobright.ai/jobs/info/68c88b0bf9c6ff7aedf100fe?utm_campaign=Education%20and%20Training&utm_source=1103)** | Poplar Bluff, MO | On Site | Oct 16 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant/Assoicate Professor Cell & Developmental Biology](https://jobright.ai/jobs/info/68ad25c2d627244576e4b93a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 16 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Coach/Ops Mgr Trainee](https://jobright.ai/jobs/info/68b986056105227d1189537e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Paragould, AR | On Site | Oct 16 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Community Empowerment Volunteer in the Azores](https://jobright.ai/jobs/info/6826075b60f2af99db538662?utm_campaign=Education%20and%20Training&utm_source=1103)** | Berkeley, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
