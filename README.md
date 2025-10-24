@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer Trainee](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 24 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[PRN Outpatient at Home Physical Therapist KORT_ Elizabethtown, KY and Brandenburg, KY](https://jobright.ai/jobs/info/68d7d2b8295f8e37655e28d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Elizabethtown, KY | On Site | Oct 23 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Occupational Therapist](https://jobright.ai/jobs/info/684c5e0bb0be88888030839c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 23 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[RRT/PSG Tech](https://jobright.ai/jobs/info/68a3f0642d2a252445cd4498?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cincinnati, OH | On Site | Oct 23 |
