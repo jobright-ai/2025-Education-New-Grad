@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer Trainee](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 24 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[PRN Outpatient at Home Physical Therapist KORT_ Elizabethtown, KY and Brandenburg, KY](https://jobright.ai/jobs/info/68d7d2b8295f8e37655e28d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Elizabethtown, KY | On Site | Oct 23 |
+| **[Empire State University](https://www.sunyempire.edu)** | **[Assistant/Associate Professor of Data Science](https://jobright.ai/jobs/info/68c036595c5d5f14f46dbcbf?utm_campaign=Education%20and%20Training&utm_source=1103)** | All, MO | On Site | Oct 23 |
 | **[LanguageLine Solutions](https://www.languageline.com/)** | **[Karen Language Interpreter (Spoken in Myanmar & Thailand)](https://jobright.ai/jobs/info/6851d6a40dbbd4c98454d271?utm_campaign=Education%20and%20Training&utm_source=1103)** | United States | Hybrid | Oct 23 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Occupational Therapist](https://jobright.ai/jobs/info/684c5e0bb0be88888030839c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 23 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[RRT/PSG Tech](https://jobright.ai/jobs/info/68a3f0642d2a252445cd4498?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cincinnati, OH | On Site | Oct 23 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 | **[ABS Kids](https://www.abskids.com)** | **[Learning Specialist](https://jobright.ai/jobs/info/68d66fc1d3fe025a30159e06?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greensboro, NC | On Site | Oct 18 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, 4-H Youth Development](https://jobright.ai/jobs/info/68b86c7507090163b6ba1879?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cleveland County, OK | On Site | Oct 17 |
-| **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Atlanta/Alpharetta](https://jobright.ai/jobs/info/68ba33aa5f38327491864e45?utm_campaign=Education%20and%20Training&utm_source=1103)** | Atlanta, GA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
