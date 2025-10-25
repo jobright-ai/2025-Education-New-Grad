@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, Agriculture/4-H Youth Development](https://jobright.ai/jobs/info/68c62deadb52c07d28844c70?utm_campaign=Education%20and%20Training&utm_source=1103)** | Caddo County, OK | On Site | Oct 24 |
 | **[Touchmark](https://www.touchmark.com)** | **[Activities Coordinator Life Enrichment](https://jobright.ai/jobs/info/68bfd1538e65e77df55bd45d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bend, OR | On Site | Oct 24 |
 | **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer Trainee](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 24 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[YOUTH MENTOR—-Part-Time afternoon/evenings and weekends](https://jobright.ai/jobs/info/68a666b333dd7158bbc9fca7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cheyenne, WY | Hybrid | Oct 24 |
@@ -98,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Professional - Golf Galaxy](https://jobright.ai/jobs/info/68bae86f6105227d118a153b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Burlington, MA | On Site | Oct 18 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[Awake Night Staff Youth Mentor - Sign On Bonus Available](https://jobright.ai/jobs/info/68ccdb1cd11b445e0bee32a7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Idaho Springs, CO | On Site | Oct 18 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - NYC](https://jobright.ai/jobs/info/68cb05ceefdec76df36b78bd?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Oct 18 |
-| **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
-| ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
