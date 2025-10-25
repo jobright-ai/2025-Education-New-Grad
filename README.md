@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Touchmark](https://www.touchmark.com)** | **[Activities Coordinator Life Enrichment](https://jobright.ai/jobs/info/68bfd1538e65e77df55bd45d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bend, OR | On Site | Oct 24 |
 | **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer Trainee](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 24 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[PRN Outpatient at Home Physical Therapist KORT_ Elizabethtown, KY and Brandenburg, KY](https://jobright.ai/jobs/info/68d7d2b8295f8e37655e28d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Elizabethtown, KY | On Site | Oct 23 |
 | **[Empire State University](https://www.sunyempire.edu)** | **[Assistant/Associate Professor of Data Science](https://jobright.ai/jobs/info/68c036595c5d5f14f46dbcbf?utm_campaign=Education%20and%20Training&utm_source=1103)** | All, MO | On Site | Oct 23 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist Assistant (PTA)](https://jobright.ai/jobs/info/68d756407a37c712687c8e46?utm_campaign=Education%20and%20Training&utm_source=1103)** | Lincoln, NE | Hybrid | Oct 18 |
 | ↳ | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 | **[ABS Kids](https://www.abskids.com)** | **[Learning Specialist](https://jobright.ai/jobs/info/68d66fc1d3fe025a30159e06?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greensboro, NC | On Site | Oct 18 |
-| **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, 4-H Youth Development](https://jobright.ai/jobs/info/68b86c7507090163b6ba1879?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cleveland County, OK | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
