@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crownview Co-Occurring Institute ](https://crownviewci.com)** | **[Group Facilitator](https://jobright.ai/jobs/info/68c3eb74e396b25cb5c64932?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oceanside, CA | On Site | Oct 25 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, Agriculture/4-H Youth Development](https://jobright.ai/jobs/info/68c62deadb52c07d28844c70?utm_campaign=Education%20and%20Training&utm_source=1103)** | Caddo County, OK | On Site | Oct 24 |
 | **[Touchmark](https://www.touchmark.com)** | **[Activities Coordinator Life Enrichment](https://jobright.ai/jobs/info/68bfd1538e65e77df55bd45d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bend, OR | On Site | Oct 24 |
 | **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer Trainee](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 24 |
