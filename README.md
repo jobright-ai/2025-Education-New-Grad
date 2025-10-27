@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/68c5bcaedb52c07d28843b9d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leon, IA | Hybrid | Oct 26 |
+| **[ABS Kids](https://www.abskids.com)** | **[Board Certified Assistant Behavior Analyst (BCaBA)](https://jobright.ai/jobs/info/68c6757a7d0db4114273aa13?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kernersville, NC | On Site | Oct 26 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Ethics Postdoctoral Fellows](https://jobright.ai/jobs/info/68a6263f758f2e4ac3fe31d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Notre Dame, IN | On Site | Oct 25 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68707c3406ad7073463bdfb2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Houston, TX | On Site | Oct 25 |
 | **[Crownview Co-Occurring Institute ](https://crownviewci.com)** | **[Group Facilitator](https://jobright.ai/jobs/info/68c3eb74e396b25cb5c64932?utm_campaign=Education%20and%20Training&utm_source=1103)** | Oceanside, CA | On Site | Oct 25 |
