@@ -136,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Tier One](http://www.tieroneus.com/)** | **[Armed School Security Officer](https://jobright.ai/jobs/info/68cb3a0cefdec76df36ba672?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
 | ↳ | **[Armed Security Guard - DFW Schools](https://jobright.ai/jobs/info/68cb3828efdec76df36ba361?utm_campaign=Education%20and%20Training&utm_source=1103)** | DFW Metroplex | On Site | Oct 15 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Radiologic Technologist - Pediatric](https://jobright.ai/jobs/info/6863ec4ca788e88bb75db676?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tacoma, WA | On Site | Oct 15 |
-| **[Cortica](https://www.corticacare.com)** | **[Behavioral Tech (Paid Training)](https://jobright.ai/jobs/info/689c336983d13d1f5b6a770e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bolingbrook, IL | On Site | Oct 15 |
-| **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68a57572b6a3617d7fa7209c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Boston, MA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
