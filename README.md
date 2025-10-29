@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/68ccf08cd11b445e0bee4b3c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Humboldt, NE | Hybrid | Oct 29 |
 | **[Intrinsic Schools](http://intrinsicschools.org)** | **[Classroom Learning Assistant - SY 25/26 - Belmont Campus](https://jobright.ai/jobs/info/68c88cea983e6768bc54edc0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | On Site | Oct 29 |
+| **[University of Massachusetts Amherst](http://www.umass.edu)** | **[Slavery North Research Fellow](https://jobright.ai/jobs/info/68ce32921ad6b16f028a2d8e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Amherst, MA | On Site | Oct 29 |
 | **[Soar Autism Center](https://soarautismcenter.com/)** | **[Child Developmental Behavior Specialist](https://jobright.ai/jobs/info/68cd28e81ad6b16f02895d10?utm_campaign=Education%20and%20Training&utm_source=1103)** | Phoenix, AZ | On Site | Oct 27 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68705cec06ad7073463bd463?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tucson, AZ | On Site | Oct 26 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/68c5bcaedb52c07d28843b9d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Leon, IA | Hybrid | Oct 26 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, Agriculture/4-H Youth Development](https://jobright.ai/jobs/info/68c62deadb52c07d28844c70?utm_campaign=Education%20and%20Training&utm_source=1103)** | Caddo County, OK | On Site | Oct 24 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[YOUTH MENTOR—-Full Time](https://jobright.ai/jobs/info/68a665fbb6a3617d7fa773cd?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cheyenne, WY | On Site | Oct 24 |
 | **[Touchmark](https://www.touchmark.com)** | **[Activities Coordinator Life Enrichment](https://jobright.ai/jobs/info/68bfd1538e65e77df55bd45d?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bend, OR | On Site | Oct 24 |
-| **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer Trainee](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, United States | On Site | Oct 24 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[YOUTH MENTOR—-Part-Time afternoon/evenings and weekends](https://jobright.ai/jobs/info/68a666b333dd7158bbc9fca7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cheyenne, WY | Hybrid | Oct 24 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[YOUTH MENTOR—-Overnights Full Time](https://jobright.ai/jobs/info/68a6665133dd7158bbc9fc16?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cheyenne, WY | On Site | Oct 23 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[PRN Outpatient at Home Physical Therapist KORT_ Elizabethtown, KY and Brandenburg, KY](https://jobright.ai/jobs/info/68d7d2b8295f8e37655e28d1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Elizabethtown, KY | On Site | Oct 23 |
