@@ -88,6 +88,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/684c5e0bb0be88888030839e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hillsboro, KS | Hybrid | Oct 22 |
 | ↳ | **[PTA - Physical Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecd1?utm_campaign=Education%20and%20Training&utm_source=1103)** | Omak, WA | Hybrid | Oct 22 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/68153ec9c9ec0b79053a701a?utm_campaign=Education%20and%20Training&utm_source=1103)** | United States | Remote | Oct 22 |
-| **[Encompass Health](http://encompasshealth.com/)** | **[Wound Program Coordinator](https://jobright.ai/jobs/info/68dabe1407c157682e56cfaa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Knoxville, TN | On Site | Oct 21 |
-| **[Freire Schools](http://www.freireschools.org)** | **[Admissions Coordinator (25-26 SY)](https://jobright.ai/jobs/info/68c04a4e5c5d5f14f46dc442?utm_campaign=Education%20and%20Training&utm_source=1103)** | Wilmington, DE | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
