@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Texas](https://jobright.ai/jobs/info/68ba31fd5f38327491864a32?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dallas, TX | On Site | Oct 17 |
 | **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/688088a62097a271a89a6019?utm_campaign=Education%20and%20Training&utm_source=1103)** | McAlester, OK | Hybrid | Oct 17 |
 | **[ABS Kids](https://www.abskids.com)** | **[BA Trainee](https://jobright.ai/jobs/info/68d531c2820803491963a1e5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Hesperia, CA | On Site | Oct 17 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant/Assoicate Professor Cell & Developmental Biology](https://jobright.ai/jobs/info/68ad25c2d627244576e4b93a?utm_campaign=Education%20and%20Training&utm_source=1103)** | Urbana, IL | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
