@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark Human Services](http://benchmarkhs.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/67107bb510adfa2a3113f2be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bridgeport, CT | On Site | Oct 29 |
 | **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/68ccf08cd11b445e0bee4b3c?utm_campaign=Education%20and%20Training&utm_source=1103)** | Humboldt, NE | Hybrid | Oct 29 |
 | **[Intrinsic Schools](http://intrinsicschools.org)** | **[Classroom Learning Assistant - SY 25/26 - Belmont Campus](https://jobright.ai/jobs/info/68c88cea983e6768bc54edc0?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | On Site | Oct 29 |
 | **[University of Massachusetts Amherst](http://www.umass.edu)** | **[Slavery North Research Fellow](https://jobright.ai/jobs/info/68ce32921ad6b16f028a2d8e?utm_campaign=Education%20and%20Training&utm_source=1103)** | Amherst, MA | On Site | Oct 29 |
