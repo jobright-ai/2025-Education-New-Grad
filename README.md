@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Chicago](https://jobright.ai/jobs/info/68ba31866105227d1189b7e5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Chicago, IL | On Site | Oct 17 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Research Training Grant Fellow](https://jobright.ai/jobs/info/687fbd689f72804245704c66?utm_campaign=Education%20and%20Training&utm_source=1103)** | Evanston, IL | On Site | Oct 17 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Texas](https://jobright.ai/jobs/info/68ba31fd5f38327491864a32?utm_campaign=Education%20and%20Training&utm_source=1103)** | Dallas, TX | On Site | Oct 17 |
-| **[RehabVisions](https://rehabvisions.com)** | **[OTA - Occupational Therapist Assistant](https://jobright.ai/jobs/info/688088a62097a271a89a6019?utm_campaign=Education%20and%20Training&utm_source=1103)** | McAlester, OK | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
