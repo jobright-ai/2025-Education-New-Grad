@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
 | **[ABS Kids](https://www.abskids.com)** | **[Learning Specialist](https://jobright.ai/jobs/info/68d66fc1d3fe025a30159e06?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greensboro, NC | On Site | Oct 18 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Educator, 4-H Youth Development](https://jobright.ai/jobs/info/68b86c7507090163b6ba1879?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cleveland County, OK | On Site | Oct 17 |
-| **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - Atlanta/Alpharetta](https://jobright.ai/jobs/info/68ba33aa5f38327491864e45?utm_campaign=Education%20and%20Training&utm_source=1103)** | Atlanta, GA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
