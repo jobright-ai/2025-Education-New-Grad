@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Rite of Passage](https://riteofpassage.com/)** | **[Awake Night Staff Youth Mentor - Sign On Bonus Available](https://jobright.ai/jobs/info/68ccdb1cd11b445e0bee32a7?utm_campaign=Education%20and%20Training&utm_source=1103)** | Idaho Springs, CO | On Site | Oct 18 |
 | **[Starr](https://starrcompanies.com/)** | **[Starr Associates Program - NYC](https://jobright.ai/jobs/info/68cb05ceefdec76df36b78bd?utm_campaign=Education%20and%20Training&utm_source=1103)** | New York, NY | On Site | Oct 18 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Physical Therapist](https://jobright.ai/jobs/info/6882b697835a903aa07f04be?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schuyler, NE | Hybrid | Oct 18 |
-| **[ABS Kids](https://www.abskids.com)** | **[Learning Specialist](https://jobright.ai/jobs/info/68d66fc1d3fe025a30159e06?utm_campaign=Education%20and%20Training&utm_source=1103)** | Greensboro, NC | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
