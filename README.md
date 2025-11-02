@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Missouri-Columbia](https://missouri.edu)** | **[CHILD DEVELOPMENT ASSOCIATE](https://jobright.ai/jobs/info/68cc61e116d00d2beeb1e919?utm_campaign=Education%20and%20Training&utm_source=1103)** | Columbia, MO | On Site | Nov 01 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[ABA Student Analyst, Field Work, Graduate Program](https://jobright.ai/jobs/info/68cc49fe16d00d2beeb1d0d5?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tucson, AZ | On Site | Oct 31 |
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Diabetes Educator - Internal Medicine](https://jobright.ai/jobs/info/689106014c7e851b90acb564?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bellingham, WA | On Site | Oct 30 |
 | **[Freire Schools](http://www.freireschools.org)** | **[Admissions Coordinator (25-26 SY)](https://jobright.ai/jobs/info/68c04a4e5c5d5f14f46dc442?utm_campaign=Education%20and%20Training&utm_source=1103)** | Wilmington, DE | On Site | Oct 29 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[RN - Detroit Lakes Clinic - Internal Medicine](https://jobright.ai/jobs/info/683a174493f88b606b501aaa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Detroit Lakes, MN | On Site | Oct 20 |
 | **[Hopebridge](https://www.hopebridge.com/)** | **[Help Kids with Austin - RBT Certification Required!  - $800 Sign-On Bonus!!](https://jobright.ai/jobs/info/688439d24174df41e0f902c2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Mishawaka, IN | On Site | Oct 20 |
 | **[Hopebridge](https://www.hopebridge.com/)** | **[Help Kids with Autism- RBT Certification Required - $800 Sign-On Bonus!!](https://jobright.ai/jobs/info/68843f04fbbf032d00066473?utm_campaign=Education%20and%20Training&utm_source=1103)** | Osceola, IN | On Site | Oct 19 |
-| **[Year Up United](http://yearup.org)** | **[Entry Level Banking Training Opportunity](https://jobright.ai/jobs/info/68cd395f1ad6b16f028969aa?utm_campaign=Education%20and%20Training&utm_source=1103)** | Miami, FL | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
