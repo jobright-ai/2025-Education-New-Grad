@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Permanente Medical Group, Inc.](https://northerncalifornia.permanente.org)** | **[Developmental Pediatrician](https://jobright.ai/jobs/info/661e53b007a88b8f491d9b59?utm_campaign=Education%20and%20Training&utm_source=1103)** | Roseville, CA | On Site | Nov 03 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Golf Professional - House of Sport](https://jobright.ai/jobs/info/68b2fd36f4e41a61efd8870b?utm_campaign=Education%20and%20Training&utm_source=1103)** | Schaumburg, IL | On Site | Nov 02 |
 | **[CHE Behavioral Health Services](http://cheservices.com)** | **[Licensed Clinical Psychologist](https://jobright.ai/jobs/info/68d776ff7a37c712687cde04?utm_campaign=Education%20and%20Training&utm_source=1103)** | Cupertino, CA | Hybrid | Nov 02 |
 | **[Kansas City Kansas Community College](http://www.kckcc.edu/)** | **[History](https://jobright.ai/jobs/info/68ccd0ccb274cd205ab4f677?utm_campaign=Education%20and%20Training&utm_source=1103)** | Kansas City, KS | On Site | Nov 01 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Brightview Senior Living](https://www.brightviewseniorliving.com/)** | **[Activities Assistant- Memory Care](https://jobright.ai/jobs/info/68dab14f07c157682e56c716?utm_campaign=Education%20and%20Training&utm_source=1103)** | Tarrytown, NY | On Site | Oct 21 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Psychologist I - Child and Family Research Program](https://jobright.ai/jobs/info/68bf03d4702aa35207aa2528?utm_campaign=Education%20and%20Training&utm_source=1103)** | Bethesda, MD | Hybrid | Oct 21 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Fitness Program Coordinator](https://jobright.ai/jobs/info/68ba3f9a8043103d4f21ef64?utm_campaign=Education%20and%20Training&utm_source=1103)** | Merrimack, NH | On Site | Oct 21 |
-| **[RehabVisions](https://rehabvisions.com)** | **[PTA - Physical Therapist Assistant](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1ecb2?utm_campaign=Education%20and%20Training&utm_source=1103)** | Espanola, NM | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
